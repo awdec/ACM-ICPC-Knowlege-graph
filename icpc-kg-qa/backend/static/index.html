@@ -1,0 +1,58 @@
+<!-- frontend/index.html -->
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ICPC-KG QA Demo</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    #results { margin-top: 16px; }
+    .item { padding:8px; border-bottom:1px solid #ddd; }
+  </style>
+</head>
+<body>
+  <h2>ICPC KG QA Demo</h2>
+  <input id="q" placeholder="输入查询（例如：有哪些最短路题）" style="width:60%">
+  <button onclick="doParse()">问答</button>
+
+  <div id="results"></div>
+
+<script>
+async function doParse(){
+  const q = document.getElementById('q').value;
+  const res = await fetch('/api/parse', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({query: q})
+  });
+  const parsed = await res.json();
+  if(parsed.candidates && parsed.candidates.length){
+    const kp = parsed.candidates[0].name;
+    const r = await fetch(`/api/search?k=${encodeURIComponent(kp)}&limit=10`);
+    const data = await r.json();
+    showResults(data.results);
+  } else {
+    document.getElementById('results').innerText = '未识别知识点';
+  }
+}
+
+function showResults(items){
+  const el = document.getElementById('results');
+  el.innerHTML = '';
+  items.forEach(it=>{
+    const div = document.createElement('div');
+    div.className = 'item';
+    div.innerHTML = `<b>${it.title}</b> <small>(${it.difficulty} - ${it.source})</small>
+      <div><a href="#" onclick="loadDetail('${it.id}');return false;">查看详情</a></div>`;
+    el.appendChild(div);
+  });
+}
+
+async function loadDetail(pid){
+  const r = await fetch(`/api/problem/${pid}`);
+  const data = await r.json();
+  alert(JSON.stringify(data, null, 2));
+}
+</script>
+</body>
+</html>

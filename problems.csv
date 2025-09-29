@@ -1,0 +1,1000 @@
+name,rating,tags,from,solution
+Shifts and Swaps,3100,data structures;graphs;hashing;trees,2003hangzhou,413
+Grid Coloring,2400,constructive algorithms;geometry;greedy;math,2017xian,193
+"Red Light, Green Light (Hard version)",2200,binary search;brute force;data structures;dfs and similar;dp;graphs;implementation;math;number theory,2009hangzhou,778
+"Red Light, Green Light (Easy version)",1700,brute force;dfs and similar;dp;graphs;implementation;number theory,2018chengdu,663
+Make It Beautiful,1300,bitmasks;data structures;greedy;math,2010chongqing,707
+Make It Permutation,1200,constructive algorithms,2019wuhan,884
+Equal Subsequences,800,constructive algorithms;greedy,2008shenzhen,788
+Incessant Rain,2500,data structures;divide and conquer;sortings,2007chengdu,889
+Omg Graph,1900,brute force;dsu;graphs;greedy;shortest paths;sortings,2001beijing,485
+Wildflower,1800,combinatorics;dfs and similar;trees,2006shenzhen,648
+Lost Soul,1600,brute force;greedy,2013chongqing,173
+Retaliation,1200,binary search;math;number theory,2007shenzhen,904
+Cool Partition,1200,data structures;greedy,2018chongqing,690
+Shrink,800,constructive algorithms,2007chengdu,392
+False Alarm,800,greedy;implementation,2001xian,385
+Gellyfish and Baby's Breath,1300,greedy;math;sortings,2010chengdu,472
+Gellyfish and Tricolor Pansy,800,games;greedy,2012guangzhou,121
+Gellyfish and Lycoris Radiata (Hard Version),3500,data structures,2002shenzhen,862
+Gellyfish and Lycoris Radiata (Easy Version),3500,data structures,2001chongqing,505
+Gellyfish and Mayflower,3500,dp;graphs,2002nanjing,646
+Gellyfish and Forget-Me-Not,2900,bitmasks;dp;games;greedy;math,2004nanjing,319
+Gellyfish and Eternal Violet,2700,combinatorics;dp;greedy;math;probabilities,2015nanjing,137
+Gellyfish and Camellia Japonica,2100,brute force;constructive algorithms;dfs and similar;dp;graphs;greedy;trees,2003wuhan,637
+Gellyfish and Flaming Peony,1500,constructive algorithms;dp;math;number theory,2010shanghai,769
+Build an Array,2200,brute force;constructive algorithms;dp;greedy;math;number theory,2015chongqing,827
+Small Operations,2000,binary search;brute force;dfs and similar;dp;math;number theory;sortings,2000hangzhou,616
+Kirei Attacks the Estate,1400,dfs and similar;dp;greedy;trees,2014nanjing,678
+Come a Little Closer,1400,brute force;greedy;implementation;math,2019chongqing,806
+Need More Arrays,1000,dp;greedy,2009chongqing,448
+Not Quite a Palindromic String,900,greedy;math,2003hangzhou,877
+Square Year,800,binary search;brute force;math,2011chongqing,507
+Two Arrays,2500,constructive algorithms;dfs and similar;graphs;math,2009shanghai,789
+From Kazan with Love,2800,dfs and similar;graphs;implementation;trees,2016beijing,628
+Cheater,2200,binary search;constructive algorithms;greedy;implementation,2014chongqing,351
+Smilo and Minecraft,1700,brute force;constructive algorithms;greedy,2003guangzhou,561
+Good Start,1200,constructive algorithms;math,2006guangzhou,342
+Shashliks,800,greedy;math,2013nanjing,592
+Divisible Subarrays,2900,binary search;bitmasks;brute force;data structures;interactive,2006chengdu,481
+Puzzle,2400,brute force;constructive algorithms;greedy;math,2002nanjing,44
+Changing the String,1900,binary search;data structures;greedy;implementation;sortings;strings,2008guangzhou,22
+Creating a Schedule,1400,constructive algorithms;data structures;greedy;implementation;sortings,2012xian,224
+Equal Values,1100,brute force;greedy;two pointers,2015wuhan,231
+Fibonacci Cubes,1100,brute force;dp;implementation;math,2019shanghai,604
+Energy Crystals,800,greedy;implementation;math,2020shanghai,523
+Faculty,2400,brute force;greedy;math;number theory,2006nanjing,561
+Melody,2300,dfs and similar;graphs;implementation,2010wuhan,900
+Fewer Batteries,1700,binary search;dfs and similar;dp;graphs;greedy;hashing,2006shanghai,305
+Racing,1400,constructive algorithms;greedy,2016xian,416
+Down with Brackets,900,strings,2001nanjing,809
+Fashionable Array,800,implementation;sortings,2006shenzhen,757
+Penguin Steps,3000,binary search;dfs and similar;flows;graphs;shortest paths,2015shenzhen,915
+Binary String Wowee,2400,combinatorics;dp;strings,2015guangzhou,208
+D/D/D,1900,dfs and similar;graphs;greedy;shortest paths,2003wuhan,181
+Hacking Numbers (Hard Version),2600,constructive algorithms;interactive;math;number theory,2015nanjing,603
+Hacking Numbers (Medium Version),1700,constructive algorithms;interactive;math;number theory,2000xian,964
+Hacking Numbers (Easy Version),1500,bitmasks;constructive algorithms;interactive;math;number theory,2012beijing,888
+Slice to Survive,1200,bitmasks;greedy;math,2003chengdu,99
+It's Time To Duel,800,implementation,2017shenzhen,332
+Fallen Towers,2900,binary search;greedy,2001chongqing,114
+Spruce Dispute,2600,constructive algorithms;dfs and similar;graphs;greedy;implementation;shortest paths;trees,2004hangzhou,867
+Needle in a Numstack,2200,binary search;brute force;implementation;interactive,2002xian,879
+Neo's Escape,1500,binary search;brute force;data structures;dp;dsu;graphs;greedy;implementation,2009hangzhou,229
+SUMdamental Decomposition,1300,bitmasks;constructive algorithms;greedy;implementation;math,2005shenzhen,630
+Permutation Warm-Up,800,combinatorics;greedy;math,2019chongqing,422
+Cycling (Hard Version),2800,binary search;brute force;data structures;dp;greedy,2019shanghai,540
+Cycling (Easy Version),2300,binary search;brute force;dp;greedy,2010shenzhen,503
+Ain and Apple Tree,2600,binary search;constructive algorithms;greedy;math;trees,2005chengdu,834
+Apple Tree Traversing,2100,brute force;dfs and similar;greedy;implementation;trees,2006xian,904
+Maximum Subarray Sum,1500,binary search;constructive algorithms;dp;implementation;math,2000xian,918
+Apples in Boxes,1100,games;greedy;math,2019chengdu,663
+LRC and VIP,800,greedy;number theory,2019chengdu,240
+Baudelaire (hard version),2500,binary search;dfs and similar;divide and conquer;implementation;interactive;trees,2011nanjing,231
+Baudelaire (easy version),2200,binary search;constructive algorithms;divide and conquer;greedy;interactive;trees,2001nanjing,268
+Goblin,1900,dfs and similar;dp;dsu;greedy;math,2006wuhan,973
+Wolf,1800,binary search;greedy;math,2012xian,214
+Flower Boy,1500,binary search;dp;greedy;two pointers,2002xian,637
+Cherry Bomb,1000,greedy;math;sortings,2009wuhan,954
+St. Chroma,900,constructive algorithms;greedy;math,2018chongqing,123
+Dr. TC,800,brute force;math,2003beijing,228
+Modulo 3,2700,data structures;divide and conquer;dsu;graphs;trees,2020guangzhou,374
+Numbers and Strings,2600,binary search;brute force;dfs and similar;dp;implementation;math,2004chengdu,376
+Unpleasant Strings,1700,binary search;dp;greedy;strings,2014chengdu,287
+Array and GCD,1400,binary search;greedy;math;number theory,2002wuhan,958
+Card Game,1100,brute force;constructive algorithms;games;greedy;math,2001nanjing,983
+Move to the End,1000,brute force;data structures;dp;greedy;implementation,2018shenzhen,105
+Three Decks,800,math,2002beijing,768
+Maximize Nor,2600,bitmasks;data structures;dp;implementation;sortings,2018wuhan,465
+Keep the Sum,2600,constructive algorithms;implementation;two pointers,2016beijing,275
+Local Construction,2000,constructive algorithms;dfs and similar;implementation;two pointers,2011nanjing,3
+Median Splits,1600,binary search;greedy;implementation;sortings,2018nanjing,175
+Binary Typewriter,1100,greedy;math,2014chengdu,648
+Common Multiple,800,brute force;greedy;implementation;math,2013hangzhou,314
+The Picky Cat,900,implementation;sortings,2011chengdu,215
+Dinner Time,900,constructive algorithms;math,2020beijing,102
+Shoo Shatters the Sunshine,3300,combinatorics;dp;trees,2009shanghai,245
+Kia Bakes a Cake,3100,data structures;dp;greedy;trees,2000shenzhen,106
+Mani and Segments,2500,data structures;implementation;sortings;two pointers,2020guangzhou,636
+23 Kingdom,2200,binary search;brute force;data structures;greedy;ternary search;two pointers,2011xian,762
+Quartet Swapping,1800,brute force;data structures;divide and conquer;greedy;sortings,2014chongqing,693
+Mex in the Grid,1300,constructive algorithms;implementation,2010hangzhou,838
+Sasha and the Apartment Purchase,1400,math;sortings,2004shenzhen,76
+Vadim's Collection,800,brute force;greedy,2008chongqing,721
+Lost Luggage,3500,dp;flows,2013beijing,903
+Clearing the Snowdrift,3100,data structures;dfs and similar;dp;greedy,2016shenzhen,845
+Homework,2800,bitmasks;math;matrices,2008wuhan,927
+Bermuda Triangle,2400,chinese remainder theorem;geometry;implementation;math;number theory,2016shenzhen,870
+Baggage Claim,2300,combinatorics;dfs and similar;dp;dsu;graphs;implementation;math;trees,2001wuhan,150
+Sports Betting,1400,2-sat;brute force;math;sortings,2017guangzhou,288
+Wonderful XOR Problem,3200,bitmasks;combinatorics;dp;fft;math,2011shanghai,973
+Wonderful Guessing Game,3200,bitmasks;constructive algorithms;interactive,2013chongqing,388
+Wonderful Impostors,3100,data structures;implementation;two pointers,2001hangzhou,921
+Wonderful Teddy Bears,2400,greedy;implementation;sortings,2011hangzhou,11
+Wonderful Lightbulbs,2000,combinatorics;constructive algorithms;math,2008chengdu,266
+Wonderful City,1700,dp;implementation,2013beijing,568
+Wonderful Gloves,1100,greedy;math;sortings,2008chengdu,282
+Wonderful Sticks,800,constructive algorithms;greedy,2020shenzhen,560
+La Vaca Saturno Saturnita,1900,binary search;brute force;math;number theory,2014shenzhen,308
+Chimpanzini Bananini,1700,data structures;implementation;math,2002hangzhou,992
+Trulimero Trulicina,1600,constructive algorithms,2016xian,875
+Boneca Ambalabu,1200,bitmasks,2004hangzhou,57
+Tung Tung Sahur,1100,greedy;strings;two pointers,2003wuhan,184
+Brr Brrr Patapim,900,math,2013xian,993
+Bobritto Bandito,800,brute force;constructive algorithms,2009guangzhou,630
+Trippi Troppi,800,strings,2005chengdu,737
+Shorten the Array,1900,binary search;bitmasks;data structures;dfs and similar;greedy;strings;trees;two pointers,2007nanjing,989
+Hackers and Neural Networks,1800,bitmasks;brute force;greedy,2008wuhan,824
+Min Max MEX,1500,binary search;brute force;greedy,2002shenzhen,278
+Skibidi Table,1400,bitmasks;implementation,2017guangzhou,592
+Simple Repetition,1000,math;number theory,2007hangzhou,447
+Expensive Number,900,greedy;math,2019xian,711
+Ideal Generator,800,math,2008chengdu,237
+Andryusha and CCB,2900,brute force;constructive algorithms;greedy;math;number theory;strings,2010chengdu,108
+She knows...,2100,combinatorics;constructive algorithms;graphs;math,2014beijing,195
+Mishkin Energizer,1800,brute force;constructive algorithms;greedy;implementation;strings,2018chengdu,561
+Asuna and the Mosquitoes,1200,constructive algorithms;greedy;math,2006hangzhou,871
+Lady Bug,1000,brute force;constructive algorithms;implementation;math,2006guangzhou,140
+Kamilka and the Sheep,800,greedy;math;number theory;sortings,2011chongqing,749
+Gleb and Boating,2300,brute force;constructive algorithms;data structures;dp;graphs;greedy;math;number theory;shortest paths,2007guangzhou,275
+Igor and Mountain,1800,binary search;brute force;dp,2000nanjing,829
+Interesting Ratio,1300,brute force;math;number theory;two pointers,2017hangzhou,779
+Place of the Olympiad,1200,binary search;greedy;math,2019guangzhou,233
+Combination Lock,1000,constructive algorithms;greedy,2002guangzhou,750
+Team Training,800,dp;greedy;sortings,2019hangzhou,388
+Olympiad Date,800,greedy;strings,2011guangzhou,818
+Dining Hall,1700,data structures;greedy;implementation;sortings,2003wuhan,945
+Pushing Balls,1000,brute force;dp;implementation,2015shenzhen,495
+Treasure Hunt,800,implementation;math,2020chongqing,371
+Black Cat Collapse,3500,,2009shanghai,905
+Conditional Operators,3200,constructive algorithms,2005wuhan,681
+Key of Like (Hard Version),3100,dp;math;probabilities,2001chengdu,80
+Key of Like (Easy Version),2200,dp;games;math;probabilities,2000nanjing,686
+Canteen (Hard Version),2300,binary search;data structures;dp;flows;greedy;two pointers,2016beijing,164
+Canteen (Easy Version),1900,binary search;data structures;flows;greedy;two pointers,2005shanghai,7
+Simple Permutation,1700,constructive algorithms;number theory,2001shenzhen,295
+Online Palindrome,3000,brute force;constructive algorithms;interactive,2020hangzhou,529
+Zebra-like Numbers,2400,bitmasks;brute force;constructive algorithms;dfs and similar;dp;greedy;math,2009shenzhen,985
+Even String,1700,brute force;combinatorics;dp;math;strings,2020guangzhou,53
+Disappearing Permutation,1300,dfs and similar;dp;dsu;graphs;greedy;implementation,2019xian,551
+Large Array and Segments,1100,binary search;brute force;greedy,2010xian,957
+Cloudberry Jam,800,math,2009chengdu,456
+Serval and Colorful Array (Hard Version),2900,data structures;greedy,2020hangzhou,96
+Serval and Colorful Array (Easy Version),2600,data structures;greedy,2005shenzhen,883
+Serval and Modulo,2200,constructive algorithms;math;number theory,2018shanghai,271
+Serval and Kaitenzushi Buffet,2000,data structures;graph matchings;greedy,2011nanjing,834
+Serval and The Formula,1600,bitmasks;constructive algorithms;dp;greedy,2001chongqing,816
+Serval and Final MEX,1200,constructive algorithms;implementation,2017wuhan,247
+Serval and String Theory,900,constructive algorithms;implementation,2017chongqing,787
+Turtle and Nediam 2,3500,dp;greedy,2013chengdu,462
+Wish Upon a Satellite (Hard Version),3500,data structures;dp,2003chengdu,678
+Wish Upon a Satellite (Easy Version),2600,dp;games,2009guangzhou,858
+Skyscape,2900,constructive algorithms;data structures;greedy,2019chongqing,488
+Blossom,2400,binary search;combinatorics;dp;implementation;math;two pointers,2005shenzhen,826
+Arcology On Permafrost,1600,binary search;brute force;constructive algorithms;greedy;math,2018xian,732
+You Soared Afar With Grace,1400,constructive algorithms;data structures;greedy;implementation,2009nanjing,151
+MIN = GCD,1100,greedy;math;number theory,2020chengdu,897
+Max and Mod,800,constructive algorithms;math,2001shenzhen,258
+Floor or Ceil,1600,brute force;greedy,2007hangzhou,965
+Binary Matrix,800,constructive algorithms;greedy,2002hangzhou,665
+Hard Formula (Hard Version),3400,math,2017beijing,668
+Hard Formula,3100,math;number theory,2014shenzhen,345
+Hot Matrix,3300,constructive algorithms;math,2015shanghai,367
+Quantifier,3300,combinatorics;dp;implementation,2019wuhan,667
+MST in Modulo Graph,2600,constructive algorithms;dsu;graphs;greedy;math;number theory;sortings;trees,2014chongqing,650
+Quaternary Matrix,2700,bitmasks;constructive algorithms;greedy;implementation;matrices,2000beijing,552
+Balancing,2500,greedy,2002beijing,549
+Math Division,1800,bitmasks;dp;math;probabilities,2010wuhan,430
+Order Statistics,3400,*special;binary search,2001xian,396
+Card Flip,2300,*special,2005guangzhou,566
+Best Runner,1700,*special,2018shenzhen,88
+Strong Connectivity Strikes Back,3200,*special;constructive algorithms;graphs,2018chongqing,661
+Cute Subsequences,1800,*special;sortings,2015nanjing,351
+Dreaming Is Not Harmful,2300,*special,2000guangzhou,973
+Arithmetic Exercise,2600,*special;data structures;dp;greedy,2000wuhan,739
+"Alice, Bob, And Two Arrays",3300,*special;data structures;dp;games,2018chongqing,312
+Scammy Game Ad,1800,dp;greedy;implementation,2017shanghai,44
+Vicious Labyrinth,1100,constructive algorithms;graphs;greedy;implementation;math,2018shenzhen,456
+Final Verdict,800,math,2002shanghai,986
+RGB Walking,3500,bitmasks;chinese remainder theorem;dfs and similar;graphs;number theory,2006wuhan,368
+AND x OR,3300,bitmasks;constructive algorithms;dp,2007xian,932
+Another Folding Strip,2700,combinatorics;constructive algorithms;data structures;divide and conquer;dp;greedy;math,2000wuhan,501
+Maximum Polygon,3100,brute force;data structures;greedy;implementation;math,2014chongqing,850
+Binary Subsequence Value Sum,2300,combinatorics;data structures;dp;fft;math;matrices,2006wuhan,890
+Finding OR Sum,1900,bitmasks;constructive algorithms;implementation;interactive;math,2001guangzhou,957
+Breach of Faith,1500,constructive algorithms;greedy;math;sortings,2003beijing,71
+Beautiful Sequence Returns,3000,binary search;brute force;data structures;implementation,2014xian,41
+XOR Matrix,2500,bitmasks;combinatorics;dp;implementation;math,2015chengdu,80
+Equalization,2000,bitmasks;brute force;dp;graphs;math,2017beijing,905
+Two Colors,1500,binary search;combinatorics;math,2011nanjing,850
+Array Recoloring,1300,constructive algorithms;greedy,2006chengdu,618
+To Zero,800,greedy;math,2005beijing,235
+Game With Triangles: Season 2,2100,dp;geometry,2008wuhan,710
+Counting Necessary Nodes,2000,bitmasks;divide and conquer;greedy;implementation;math,2005hangzhou,737
+Empty Triangle,1600,geometry;interactive;probabilities,2013guangzhou,496
+Counting Points,1400,brute force;data structures;geometry;implementation;two pointers,2008nanjing,281
+XOR and Triangle,1100,bitmasks;brute force;geometry;greedy;probabilities,2012hangzhou,337
+The Third Side,800,geometry;greedy;math,2000shenzhen,963
+Draw a Square,800,geometry;implementation,2005chengdu,23
+Can You Reach There?,3300,,2010beijing,507
+Boarding Queue,1300,,2019shenzhen,849
+Book Sorting,2900,,2009hangzhou,379
+Gathering Sharks,2000,,2014nanjing,174
+Squares on Grid Lines,3100,,2010hangzhou,456
+Secret Lilies and Roses,2700,interactive,2000shenzhen,505
+Corrupted File,2200,,2006wuhan,709
+Hold the Star,3500,,2011chongqing,588
+Minus Operator,3300,interactive,2005chongqing,14
+Tower of Hanoi,2400,,2015shenzhen,812
+Cactus Connectivity,2700,,2014wuhan,238
+Three-Dimensional Embedding,3500,,2000chengdu,229
+Control Towers,1900,,2002hangzhou,19
+I've Been Flipping Numbers for 300 Years and Calculated the Sum,2200,binary search;brute force;combinatorics;divide and conquer;math;number theory,2003hangzhou,13
+"Goodbye, Banker Life",1700,2-sat;bitmasks;combinatorics;constructive algorithms;fft;math;number theory,2013shanghai,639
+Do You Love Your Hero and His Two-Hit Multi-Target Attacks?,1500,binary search;brute force;constructive algorithms;dp;geometry;greedy;math,2008hangzhou,961
+"For Wizards, the Exam Is Easy, but I Couldn't Handle It",1300,brute force;greedy;implementation,2002nanjing,359
+Creating Keys for StORages Has Become My Main Skill,1200,bitmasks;constructive algorithms;greedy,2019chongqing,637
+"Having Been a Treasurer in the Past, I Help Goblins Deceive",900,combinatorics;constructive algorithms;strings,2004chengdu,641
+"New World, New Me, New Array",800,greedy;implementation;math,2006hangzhou,572
+Towering Arrays,2700,binary search;data structures,2007shenzhen,762
+LeaFall,2600,combinatorics;dp;probabilities;trees,2007chongqing,740
+Infinite Sequence (Hard Version),2500,bitmasks;brute force;constructive algorithms;data structures;dp;implementation;math,2012beijing,316
+Infinite Sequence (Easy Version),1800,bitmasks;brute force;dp;implementation;math,2005beijing,901
+Trapmigiano Reggiano,1700,constructive algorithms;data structures;dfs and similar;dp;greedy;sortings;trees,2010guangzhou,307
+Perfecto,1100,brute force;constructive algorithms;greedy;math,2015beijing,232
+The Play Never Ends,800,math;number theory,2000shenzhen,840
+Friends and Pizza,3000,bitmasks;divide and conquer;dp;fft,2019xian,490
+Game with Binary String,2200,constructive algorithms;data structures;divide and conquer;games;greedy;math,2001hangzhou,72
+Tree Jumps,1600,dfs and similar;dp;trees,2004wuhan,559
+Limited Repainting,1500,binary search;greedy,2011chongqing,665
+Robot Program,1100,brute force;implementation;math,2008chengdu,407
+FizzBuzz Remixed,800,brute force;math,2001hangzhou,353
+Graph Inclusion,2800,data structures;dfs and similar;divide and conquer;dsu;graphs,2012chengdu,809
+"A, B, AB and BA",2300,constructive algorithms;greedy;sortings;strings,2016chengdu,206
+Palindrome Shuffle,1800,binary search;greedy;hashing;strings;two pointers,2007hangzhou,635
+Beautiful Sequence,1500,combinatorics;dp;greedy;two pointers,2012shanghai,584
+Set of Strangers,1200,greedy;matrices,2012hangzhou,928
+Was there an Array?,800,graph matchings;greedy,2010wuhan,596
+Amusement Park Rides,3000,flows;graphs,2020shenzhen,939
+The Ultimate Wine Tasting Event,2000,combinatorics;greedy,2019shanghai,620
+Pinball,3500,graphs;shortest paths,2013wuhan,235
+Statues,2700,constructive algorithms;greedy;math,2000hangzhou,264
+A Very Long Hike,3500,shortest paths,2010beijing,569
+Mascot Naming,1900,brute force;greedy;implementation;strings,2015chongqing,157
+Porto Vs. Benfica,2800,data structures;dfs and similar;dsu;graphs;shortest paths,2016wuhan,787
+Morse Code,3100,dp;sortings;trees,2007shenzhen,75
+Ads,2100,binary search;greedy;two pointers,2013hangzhou,871
+Urban Planning,3100,constructive algorithms,2018beijing,599
+Condorcet Elections,2300,constructive algorithms;graphs;greedy;probabilities,2011wuhan,442
+Devyatkino,1500,brute force;dfs and similar;greedy;math,2014shenzhen,546
+Two Large Bags,1200,brute force;dp;greedy;sortings,2008xian,611
+Adjacent Digit Sums,800,brute force;constructive algorithms;math,2007beijing,840
+Curse,3300,constructive algorithms;dp;math,2019wuhan,175
+Tropical Season,3300,binary search;data structures;greedy;implementation,2001beijing,154
+Club of Young Aircraft Builders (hard version),2900,combinatorics;dp;math,2020chongqing,732
+Club of Young Aircraft Builders (easy version),2400,combinatorics;dp;math,2001shanghai,650
+Bitwise Slides,2300,bitmasks;combinatorics;dp;math,2012beijing,394
+White Magic,1900,constructive algorithms;data structures;dp;greedy;implementation,2014shanghai,16
+Object Identification,1400,graphs;greedy;implementation;interactive,2001hangzhou,923
+Bro Thinks He's Him,2200,combinatorics;data structures;divide and conquer;dp;math;matrices,2020nanjing,560
+Skibidus and Capping,1700,combinatorics;math;number theory,2001wuhan,567
+Skibidus and Slay,1700,data structures;dfs and similar;graphs;greedy;trees,2007nanjing,990
+Skibidus and Rizz,1600,constructive algorithms;greedy;strings,2005shenzhen,370
+Skibidus and Sigma,1200,greedy;sortings,2019xian,185
+Skibidus and Fanum Tax (hard version),1300,binary search;greedy,2004wuhan,98
+Skibidus and Fanum Tax (easy version),1100,binary search;dp;greedy,2007guangzhou,725
+Skibidus and Ohio,800,strings,2000shenzhen,85
+Skibidus and Amog'u,800,brute force;constructive algorithms;greedy;implementation;strings,2009chengdu,629
+We Be Summing,2600,binary search;data structures;dp;two pointers,2012shanghai,407
+Mycraft Sand Sort,2400,combinatorics;data structures;dsu;greedy;math;sortings,2018guangzhou,257
+Eating,1900,binary search;bitmasks;brute force;data structures;dp;greedy;trees;two pointers,2014beijing,873
+Remove the Ends,1300,brute force;constructive algorithms;dp;greedy,2011wuhan,738
+Variety is Discouraged,1100,binary search;constructive algorithms;greedy;two pointers,2008chongqing,772
+Brogramming Contest,800,greedy;strings,2020guangzhou,312
+Counting Is Not Fun (Hard Version),2700,combinatorics;data structures;dfs and similar;dsu;graphs;implementation;trees,2020shenzhen,785
+Counting Is Not Fun (Easy Version),2400,combinatorics;data structures;dfs and similar;dp;dsu;graphs;hashing;implementation;math;trees,2019chongqing,370
+Triangle Tree,2300,data structures;dfs and similar;dp;greedy;trees,2019xian,366
+Game With Triangles,2000,binary search;brute force;data structures;geometry;greedy;implementation;math;ternary search;two pointers,2006chengdu,184
+Remove Exactly Two,1600,brute force;data structures;dfs and similar;dp;graphs;greedy;sortings;trees,2011wuhan,700
+Subsequence Update,1100,constructive algorithms;data structures;greedy;sortings,2006beijing,375
+Minimal Coprime,800,math;number theory,2003nanjing,311
+Galaxy Generator,3500,bitmasks;combinatorics;dp,2012shenzhen,713
+Permutation Factory,3500,flows;geometry;graph matchings;graphs,2007xian,370
+Traveling Salescat,2900,constructive algorithms;dp;geometry;graphs;greedy;math;sortings,2006nanjing,482
+The Game (Hard Version),3000,data structures;dfs and similar;games;graphs;implementation;trees,2003xian,604
+The Game (Easy Version),2000,data structures;dfs and similar;games;graphs;greedy;trees,2001shanghai,287
+Balanced Tree,2200,dfs and similar;dp;graphs;greedy;trees,2010nanjing,829
+Cirno and Operations,1200,brute force;math,2011xian,777
+Clockwork,900,greedy;math,2010hangzhou,658
+String,800,constructive algorithms;greedy;math;strings,2009shanghai,298
+Kevin and Nivek,3500,divide and conquer;dp,2003nanjing,275
+Kevin and Stones (Hard Version),3500,flows;graphs,2001chongqing,488
+Kevin and Stones (Easy Version),3500,flows;graph matchings;graphs,2016chengdu,112
+Kevin and Teams,2900,constructive algorithms;graphs;interactive,2002chongqing,467
+Kevin and Binary String (Hard Version),3500,data structures;dp,2001xian,695
+Kevin and Binary String (Easy Version),2100,greedy;implementation,2001guangzhou,330
+Kevin and And,2000,bitmasks;brute force;dp;greedy;math;sortings,2005hangzhou,383
+Kevin and Numbers,1600,bitmasks;data structures,2014chongqing,564
+Kevin and Puzzle,1600,2-sat;combinatorics;dp,2005wuhan,815
+Kevin and Geometry,1100,binary search;geometry,2012shanghai,754
+Kevin and Arithmetic,800,math,2007wuhan,445
+Bugged Sort,2400,dp;greedy;sortings,2010shenzhen,180
+Multiplicative Arrays,2200,combinatorics;dp;number theory,2020beijing,218
+Graph Composition,1500,dfs and similar;dsu;graphs;greedy,2016hangzhou,326
+Subtract Min Sort,1100,greedy,2012beijing,208
+Game of Mathletes,900,games;greedy;sortings;two pointers,2009chongqing,650
+Farmer John's Card Game,1000,greedy;sortings,2009chongqing,786
+Fibonacciness,800,brute force,2001beijing,264
+Stop Gaming (Hard Version),2900,brute force;constructive algorithms;data structures;hashing;strings,2016shanghai,763
+Stop Gaming (Easy Version),2500,brute force;constructive algorithms;greedy;hashing;strings,2019xian,882
+Graph and Graph,1900,data structures;graphs;greedy;shortest paths,2018shenzhen,921
+Customer Service,1600,brute force;constructive algorithms;graph matchings;greedy;math;sortings,2019wuhan,574
+Cost of the Array,1300,brute force;constructive algorithms;greedy;math,2019chongqing,627
+Milya and Two Arrays,800,constructive algorithms;greedy;sortings,2017shanghai,525
+Coffee Break,3500,data structures;greedy;math,2013shanghai,51
+Secret Message,3000,constructive algorithms;dfs and similar;math,2019wuhan,475
+Formation,3300,binary search;data structures;dp;sortings;two pointers,2018shenzhen,64
+Another Exercise on Graphs (hard version),2500,binary search;dfs and similar;dp;dsu;graphs;shortest paths;sortings,2002shanghai,625
+Another Exercise on Graphs (Easy Version),2300,binary search;brute force;dp;dsu;graphs;shortest paths;sortings,2006shanghai,996
+Gifts Order,2000,data structures;greedy;implementation;math;matrices,2002wuhan,409
+Trip to the Olympiad,1500,bitmasks;constructive algorithms;greedy;math,2008beijing,560
+Gorilla and the Exam,1000,greedy;sortings,2004beijing,905
+MEX Table,800,constructive algorithms;math,2010wuhan,21
+Xor of Median (Hard Version),3000,bitmasks;brute force;combinatorics;dp;math,2018hangzhou,114
+Xor of Median (Easy Version),2700,bitmasks;brute force;combinatorics;dp;math,2014chongqing,491
+Nested Segments,2500,combinatorics;dfs and similar;dp;dsu;math,2016shenzhen,722
+Unique Median,2200,binary search;brute force;combinatorics;data structures;divide and conquer;dp,2018beijing,798
+Palindromic Subsequences,1200,brute force;constructive algorithms;math,2005shenzhen,567
+Find the Permutation,1300,brute force;dfs and similar;graphs;implementation;sortings,2019beijing,786
+Shape Perimeter,800,constructive algorithms;math,2019xian,76
+Cosmic Divide,3200,brute force;geometry;hashing;math;strings,2018chongqing,196
+Haystacks,2800,brute force;constructive algorithms;data structures;greedy;sortings,2001beijing,222
+Scarecrow,2000,greedy;implementation;math,2009xian,138
+The Trail,1400,brute force;constructive algorithms;greedy;math;two pointers,2001chongqing,225
+Crafting,1000,constructive algorithms;greedy;sortings,2019beijing,424
+Two Frogs,800,constructive algorithms;games;greedy;math,2019beijing,782
+Affectionate Arrays (Hard Version),3500,data structures;dp;graphs;greedy;math;shortest paths;two pointers,2006xian,144
+Affectionate Arrays (Easy Version),2800,data structures;dp;greedy,2001shanghai,340
+Delicate Anti-monotonous Operations,3500,constructive algorithms;implementation,2017wuhan,776
+Naive String Splits,3400,binary search;brute force;greedy;hashing;math;number theory;strings,2015hangzhou,166
+Earnest Matrix Complement,2600,brute force;data structures;dp;greedy;implementation;math,2019nanjing,292
+Resourceful Caterpillar Sequence,1900,dfs and similar;dp;games;graphs;greedy;trees,2013chongqing,18
+Refined Product Optimality,1700,binary search;data structures;greedy;math;schedules;sortings,2001chengdu,548
+Bewitching Stargazer,1500,bitmasks;divide and conquer;dp;math,2018guangzhou,124
+Outstanding Impressionist,1200,binary search;brute force;data structures;greedy,2008hangzhou,415
+Tender Carpenter,800,dp;geometry;greedy;math,2011wuhan,195
+Managing Cluster,2700,dp;graphs;math;trees,2005shanghai,67
+Legacy Screensaver,2900,,2009wuhan,367
+Knowns and Unknowns,2800,,2007hangzhou,545
+Judicious Watching,2000,binary search;greedy;sortings,2019shanghai,919
+Incompetent Delivery Guy,2800,graphs;shortest paths,2012shenzhen,767
+Hunting Hoglins in Hogwarts,3500,interactive,2006beijing,581
+Geometric Balance,2800,data structures;geometry;implementation,2004guangzhou,825
+Fix Flooded Floor,1700,constructive algorithms;dp;graphs,2006nanjing,957
+Expression Correction,1900,brute force;expression parsing;strings,2008shanghai,924
+DAG Serialization,2100,brute force;graphs,2018shenzhen,952
+Cactus without Bridges,3500,constructive algorithms;math,2014shenzhen,212
+BitBitJump,2400,,2014shanghai,783
+Adrenaline Rush,1600,constructive algorithms,2004shenzhen,868
+Snakes,2100,bitmasks;dp;dsu;graphs,2008beijing,431
+Joker,2000,brute force;greedy;implementation;math,2006xian,537
+Best Price,1600,binary search;brute force;data structures;greedy;sortings,2015hangzhou,209
+Counting Pairs,1200,binary search;sortings;two pointers,2006chongqing,71
+Preparing for the Exam,1000,constructive algorithms;implementation,2016chengdu,701
+Journey,800,binary search;math,2010guangzhou,138
+Preparing for the Olympiad,800,greedy,2006shenzhen,752
+Tree Destruction,1900,dfs and similar;dp;trees,2011chongqing,890
+Maximum modulo equality,1700,data structures;divide and conquer;math;number theory,2017chongqing,957
+Three Strings,1500,dp;implementation;strings,2008nanjing,13
+Digital string maximization,1300,brute force;greedy;math;strings,2012wuhan,487
+Uninteresting Number,1200,brute force;dp;math,2017hangzhou,354
+Transfusion,1100,brute force;greedy;math,2009shanghai,742
+Line Breaks,800,implementation,2011guangzhou,286
+MEX OR Mania,2700,bitmasks;brute force;data structures;dsu;implementation,2006chengdu,523
+Broken Queries,2400,binary search;bitmasks;brute force;constructive algorithms;implementation;interactive,2016xian,735
+Shift + Esc,1900,brute force;dp,2009shanghai,304
+MEX Cycle,1500,brute force;constructive algorithms;greedy;implementation,2019nanjing,799
+pspspsps,1300,brute force;constructive algorithms;graph matchings;implementation,2007guangzhou,462
+MEX Destruction,800,greedy;implementation,2008nanjing,994
+Kevin and Puzzle (Hard Version),3500,bitmasks;fft;math,2005shenzhen,687
+Kevin and Puzzle (Easy Version),3500,constructive algorithms,2010shenzhen,257
+Kevin and Strange Operation,3100,data structures;dp,2012chengdu,291
+Kevin and Matrices,2800,brute force;combinatorics;dp;math,2002shenzhen,604
+Kevin and Math Class,2500,brute force;data structures;divide and conquer;dp;implementation;math;trees,2012guangzhou,254
+Kevin and Bipartite Graph,2000,constructive algorithms;graphs;greedy,2010shenzhen,525
+Kevin and Competition Memories,1600,binary search;brute force;data structures;greedy;sortings;two pointers,2000wuhan,603
+Kevin and Binary Strings,1200,bitmasks;brute force;greedy;implementation;strings,2001chengdu,987
+Kevin and Permutation,900,constructive algorithms;greedy,2013wuhan,13
+Kevin and Combination Lock,800,brute force;greedy;implementation;math;number theory,2009beijing,725
+Replace Character,900,brute force;combinatorics;greedy;strings,2004xian,834
+Alyona and a Square Jigsaw Puzzle,800,implementation;math,2010wuhan,961
+Yandex Cuneiform (Hard Version),3500,constructive algorithms;data structures;greedy;implementation,2012hangzhou,222
+Yandex Cuneiform (Easy Version),3300,constructive algorithms;data structures;greedy,2020nanjing,881
+Cheops and a Contest (Hard Version),3500,greedy;implementation,2012shanghai,565
+Cheops and a Contest (Easy Version),2900,constructive algorithms;greedy,2005shanghai,816
+For the Emperor!,3100,flows;graphs,2014beijing,313
+Adventurers,2100,binary search;data structures;greedy;sortings;ternary search;two pointers,2015wuhan,845
+Move Back at a Cost,1600,binary search;data structures;greedy;sortings,2015chongqing,54
+Swap Columns and Find a Path,1200,greedy;sortings,2019chengdu,596
+Mirror Maze,1800,brute force;dfs and similar;graphs;implementation,2015chongqing,340
+Buggy DFS,3000,constructive algorithms,2007nanjing,120
+GCDDCG,2900,,2004guangzhou,502
+Xorderable Array,2600,bitmasks;data structures,2017nanjing,284
+Microwavable Subsequence,2100,data structures,2003wuhan,663
+Missing Separators,2200,dp;sortings;string suffix structures;strings,2019xian,317
+X Aura,2200,graphs;math;shortest paths,2017hangzhou,102
+Grid Game 3-angle,3000,games;math,2002shenzhen,566
+Narrower Passageway,2700,combinatorics;data structures,2020nanjing,131
+Aquatic Dragon,3500,,2010shenzhen,196
+Saraga,1400,greedy;strings,2009guangzhou,613
+ICPC Square,2000,math;number theory,2000nanjing,601
+Scrambled Scrabble,1700,brute force;greedy,2001guangzhou,164
+Hard Demon Problem,2100,constructive algorithms;data structures;dp;implementation;math,2003chongqing,79
+Medium Demon Problem (hard version),1900,dfs and similar;dp;dsu;graphs;implementation;trees,2020xian,682
+Medium Demon Problem (easy version),1700,dfs and similar;graph matchings;graphs;implementation;trees,2019shanghai,118
+Easy Demon Problem,1900,binary search;brute force;data structures;math;number theory,2007shenzhen,919
+Insane Problem,1300,binary search;greedy;implementation;math;number theory,2020shenzhen,874
+Harder Problem,1100,constructive algorithms;greedy;math,2020wuhan,391
+Hard Problem,800,greedy;math,2016beijing,56
+Normal Problem,800,implementation;strings,2004wuhan,149
+Easy Problem,800,brute force;math,2002hangzhou,996
+Problem with Queries,3000,brute force;data structures;implementation,2001shenzhen,799
+Nim,2700,bitmasks;brute force;combinatorics;dp;games;greedy;implementation;shortest paths,2008hangzhou,539
+Matrix Transformation,2300,bitmasks;brute force;data structures;dfs and similar;graphs;greedy;implementation,2019shenzhen,1
+Problem about GCD,1800,brute force;flows;math;number theory,2005hangzhou,116
+Sums on Segments,1600,binary search;brute force;data structures;dp;greedy;math,2012beijing,914
+Digits,1100,math;number theory,2018wuhan,93
+Coin Transformation,800,brute force;math,2013xian,516
+Two Subarrays,2600,data structures;dp;implementation;matrices,2013chengdu,322
+Vertex Pairs,2900,binary search;brute force;data structures;dfs and similar;divide and conquer;greedy;implementation;trees,2011chongqing,234
+Recommendations,1900,data structures;implementation;sortings;two pointers,2011guangzhou,223
+Competitive Fishing,1800,greedy,2000nanjing,913
+Game with Colored Marbles,900,games;greedy,2015nanjing,283
+Greedy Monocarp,800,greedy;sortings,2017xian,908
+Railway Construction,3300,,2006chengdu,842
+Selection Sort,2000,binary search;data structures;greedy;two pointers,2004hangzhou,178
+Building Castle,2900,,2015nanjing,417
+Trophic Balance Species,3100,binary search;brute force;dfs and similar;graphs,2015shenzhen,706
+Bottle Arrangement,2700,data structures;divide and conquer;dp;dsu;greedy,2009shanghai,871
+Auto Complete,2300,binary search;data structures;hashing;implementation;sortings;strings;trees,2013guangzhou,891
+Sheet Music,2300,combinatorics;dp;math,2019xian,378
+Grid Game,3100,,2000hangzhou,506
+Segmentation Folds,2400,brute force;dfs and similar;number theory,2007xian,140
+Beautiful Array,1200,constructive algorithms;math,2014beijing,770
+Drunken Maze,1700,brute force;dfs and similar;graphs;shortest paths,2001shanghai,299
+Cube,2000,bitmasks;dfs and similar;dp,2018shenzhen,543
+Bowling Frame,1200,binary search;brute force;math,2009shanghai,810
+The Bento Box Adventure,1300,implementation;sortings,2017beijing,378
+Number of Cubes,2700,combinatorics;dp;math;number theory,2019xian,695
+Control of Randomness,2100,combinatorics;dfs and similar;dp;graphs;greedy;math;probabilities;trees,2003shenzhen,376
+Non Prime Tree,1900,brute force;constructive algorithms;dfs and similar;greedy;number theory;trees;two pointers,2012shenzhen,618
+Ordered Permutations,1600,bitmasks;combinatorics;constructive algorithms;greedy;math;two pointers,2013nanjing,393
+Paint a Strip,1000,constructive algorithms;greedy;math,2002hangzhou,343
+Game of Division,800,games;math,2014wuhan,986
+Cool Swap Walk (Hard Version),3500,constructive algorithms;constructive algorithms;constructive algorithms;implementation;sortings,2004chengdu,318
+Cool Swap Walk (Easy Version),3500,constructive algorithms;implementation;sortings,2020shenzhen,460
+Shohag Loves Pebae,3500,math;number theory,2017guangzhou,303
+Shohag Loves Counting (Hard Version),3200,dp;number theory,2020beijing,153
+Shohag Loves Counting (Easy Version),2800,combinatorics;dp;math;number theory,2004shanghai,721
+Shohag Loves Inversions,2200,combinatorics;dp;implementation;math,2009chengdu,379
+Shohag Loves GCD,1700,constructive algorithms;greedy;math;number theory,2018hangzhou,596
+Shohag Loves XOR (Hard Version),1800,bitmasks;brute force;math;number theory,2014nanjing,396
+Shohag Loves XOR (Easy Version),1200,bitmasks;brute force;math;number theory,2006hangzhou,343
+Shohag Loves Strings,1000,constructive algorithms;greedy;implementation;strings,2000chongqing,610
+Shohag Loves Mod,800,constructive algorithms;number theory,2006guangzhou,329
+Fixing the Expression,800,implementation,2003hangzhou,763
+Royal Flush,2800,dp;implementation,2009nanjing,439
+Bridge Renovation,1400,brute force;dp;greedy;math;two pointers,2019nanjing,645
+Grid Walk,2100,brute force;dp;greedy;math;number theory,2013chongqing,494
+Waiting for...,800,greedy;implementation,2020chengdu,105
+Polyathlon,2500,binary search;data structures;hashing;string suffix structures;strings,2001xian,476
+Galactic Council,3000,flows,2008hangzhou,180
+Guess One Character,1900,constructive algorithms;implementation;interactive,2000hangzhou,56
+Alternative Platforms,2500,combinatorics;data structures;fft;math;sortings,2003shanghai,411
+Barrels,2900,data structures;greedy;math,2002chengdu,239
+Divide OR Conquer,2400,binary search;bitmasks;data structures;dp;implementation,2004hangzhou,734
+DIY,1400,data structures;geometry;greedy;sortings,2014nanjing,689
+Make It Equal,2100,binary search;brute force;greedy;math,2016nanjing,319
+Bonus Project,1400,games;greedy,2010shanghai,491
+Natlan Exploring,2000,bitmasks;combinatorics;data structures;dp;math;number theory,2007beijing,939
+Ardent Flames,2100,binary search;data structures;math;sortings;two pointers,2016wuhan,775
+Kachina's Favorite Binary String,1600,dp;greedy;interactive;two pointers,2016xian,789
+Sharky Surfing,1300,data structures;greedy;two pointers,2013beijing,452
+Superultra's Favorite Permutation,1000,constructive algorithms;greedy;math;number theory,2010chongqing,592
+Intercepted Inputs,800,brute force;implementation,2002wuhan,844
+Twice,800,implementation,2009chongqing,121
+Library of Magic,2200,binary search;constructive algorithms;divide and conquer;interactive;math;number theory,2001chengdu,36
+XORificator 3000,1900,bitmasks;dp;number theory;two pointers,2020guangzhou,513
+Reverse the Rivers,1600,binary search;constructive algorithms;data structures;greedy,2018shanghai,38
+I Love 1543,1300,brute force;implementation;matrices,2000shanghai,70
+Anya and 1100,1100,brute force;implementation,2006xian,640
+Startup,800,greedy;sortings,2004wuhan,549
+Quintomania,800,implementation,2012wuhan,275
+Peak Productivity Forces,3500,constructive algorithms,2001beijing,560
+Go Learn! (Hard Version),3500,divide and conquer;dp,2017chengdu,969
+Go Learn! (Easy Version),3300,dp;trees,2003hangzhou,630
+Tree Operations,2500,binary search;brute force;dfs and similar;dp;trees,2006nanjing,67
+Monster,2300,binary search;brute force;constructive algorithms;greedy;implementation;math;ternary search,2011chongqing,16
+Yet Another Real Number Problem,1800,binary search;data structures;divide and conquer;greedy;implementation;math,2002nanjing,500
+Alya and Permutation,1400,bitmasks;constructive algorithms;math,2010beijing,984
+Everyone Loves Tres,900,constructive algorithms;greedy;math;number theory,2015shenzhen,538
+Sliding,800,implementation;math,2020hangzhou,143
+Rayan vs. Rayaneh,3300,brute force;dfs and similar;dp;number theory,2017nanjing,63
+Simurgh's Watch (Hard Version),3500,greedy;implementation,2002xian,709
+Simurgh's Watch (Easy Version),3500,constructive algorithms;greedy;implementation;sortings,2020shanghai,384
+Khayyam's Royal Decree (Hard Version),2800,combinatorics;dp;math;sortings,2008shanghai,524
+Khayyam's Royal Decree (Easy Version),2500,combinatorics;dp;math;sortings,2005guangzhou,415
+Permutations Harmony,2200,combinatorics;constructive algorithms;greedy;hashing;math,2005beijing,112
+Darius' Wisdom,1600,constructive algorithms;greedy;implementation;sortings,2013hangzhou,42
+Trapped in the Witch's Labyrinth,1400,constructive algorithms;dfs and similar;graphs;implementation,2000chengdu,55
+Rakhsh's Revival,1000,data structures;greedy;implementation;two pointers,2002shenzhen,812
+King Keykhosrow's Mystery,800,brute force;chinese remainder theorem;math;number theory,2005wuhan,641
+Sakurako and Chefir,2200,data structures;dfs and similar;dp;greedy;trees,2005guangzhou,342
+Kosuke's Sloth,1800,brute force;math;number theory,2001beijing,866
+"Sakurako, Kosuke, and the Permutation",1400,brute force;data structures;dfs and similar;dsu;graphs;greedy;math,2006hangzhou,193
+Kousuke's Assignment,1300,data structures;dp;dsu;greedy;math,2016nanjing,1
+Sakurako's Field Trip,1400,dp;greedy;two pointers,2013shanghai,424
+Sakurako and Water,900,brute force;constructive algorithms;greedy,2017shenzhen,636
+Sakurako and Kosuke,800,constructive algorithms;implementation;math,2008guangzhou,573
+Peanuts,2700,combinatorics;dp;games;math,2008xian,467
+Balanced,2400,constructive algorithms;data structures;greedy;implementation;math,2004hangzhou,604
+Genokraken,1800,constructive algorithms;data structures;graphs;greedy;implementation;interactive;trees;two pointers,2014chengdu,149
+Trinity,1400,binary search;math;sortings;two pointers,2014beijing,459
+Medians,1100,constructive algorithms;greedy;implementation;math,2000beijing,673
+Circuit,800,greedy;implementation;math;number theory,2020guangzhou,260
+Penchick and Even Medians,2800,binary search;constructive algorithms;interactive;probabilities,2018shanghai,679
+Penchick and Chloe's Trees,2100,data structures;dfs and similar;dp;greedy;implementation;math;sortings;trees,2004chengdu,410
+Penchick and Desert Rabbit,1700,binary search;data structures;dfs and similar;dp;dsu;greedy;implementation;two pointers,2014chongqing,401
+Penchick and BBQ Buns,1300,constructive algorithms;math;number theory,2012chengdu,932
+Penchick and Satay Sticks,900,brute force;greedy;sortings,2018beijing,794
+Penchick and Modern Monument,800,constructive algorithms;dp;greedy;math,2013hangzhou,171
+The Destruction of the Universe (Hard Version),3100,combinatorics;math,2016chengdu,135
+The Destruction of the Universe (Easy Version),2900,combinatorics;greedy;math,2003nanjing,611
+Orangutan Approved Subarrays,2400,binary search;data structures;dp;greedy;implementation;two pointers,2017nanjing,508
+MEXimize the Score,2200,combinatorics;data structures;dp;greedy;implementation;math,2015chengdu,841
+QED's Favorite Permutation,1700,data structures;implementation;sortings,2005wuhan,959
+A TRUE Battle,1100,brute force;games;greedy,2001shenzhen,203
+Minimise Oneness,800,combinatorics;constructive algorithms;games;math,2005chengdu,647
+A Gift From Orangutan,800,constructive algorithms;greedy;math;sortings,2002wuhan,40
+Variance Challenge,3400,flows;graphs;greedy,2007shanghai,166
+Message Spread,3500,bitmasks;brute force;combinatorics;dp,2006guangzhou,54
+Balanced Problem,3000,data structures;dp,2005xian,996
+Palindrome Everywhere,2500,constructive algorithms;graphs;greedy,2000chongqing,950
+Common Generator,2100,brute force;constructive algorithms;math;number theory,2018beijing,845
+Cool Graph,1900,constructive algorithms;data structures;dfs and similar;dsu;graphs;greedy;trees,2012xian,381
+New Rating,1700,binary search;data structures;dp;greedy,2006shanghai,683
+Replacement,1100,constructive algorithms;games;strings,2012beijing,702
+Set,800,greedy;math,2007shenzhen,215
+Alice's Adventures in Addition,2700,bitmasks;brute force;dp;implementation,2012chongqing,521
+Alice's Adventures in the Rabbit Hole,2300,combinatorics;dfs and similar;dp;games;greedy;math;probabilities;trees,2020hangzhou,574
+Alice's Adventures in Cards,2000,constructive algorithms;data structures;dp;graphs;greedy;implementation;ternary search,2011hangzhou,119
+Alice's Adventures in Cutting Cake,1600,binary search;dp;greedy;two pointers,2002chongqing,751
+Alice's Adventures in Permuting,1400,binary search;implementation;math,2009chengdu,973
+Alice's Adventures in ''Chess'',900,brute force;implementation;math,2020shanghai,933
+Bit Game (Hard Version),3100,bitmasks;dp;math,2011chongqing,112
+Bit Game (Easy Version),2800,bitmasks;brute force;games;math,2020chongqing,389
+The Endspeaker (Hard Version),2200,binary search;data structures;dp;greedy;implementation;two pointers,2000wuhan,276
+The Endspeaker (Easy Version),1700,binary search;dp;graphs;greedy;implementation;two pointers,2019hangzhou,920
+Add Zeros,1500,brute force;data structures;dfs and similar;dp;graphs;greedy,2013shenzhen,471
+Stalin Sort,1100,brute force;greedy,2009guangzhou,171
+Rectangle Arrangement,800,geometry;implementation;math,2002shenzhen,561
+Bermart Ice Cream,2700,data structures;dfs and similar;divide and conquer;dp;implementation;trees,2005shanghai,39
+Best Subsequence,2500,bitmasks;dfs and similar;flows;graph matchings;graphs,2009chongqing,602
+Sums of Segments,1900,binary search;data structures;dp;implementation;math,2012hangzhou,94
+Action Figures,1500,binary search;brute force;constructive algorithms;data structures;greedy;implementation,2000hangzhou,300
+Black Cells,1300,binary search;brute force;constructive algorithms;greedy,2010shanghai,970
+Perpendicular Segments,900,constructive algorithms;geometry;greedy;math,2008beijing,496
+Variable Damage,3000,data structures;flows,2011chongqing,95
+Choose Your Queries,2700,constructive algorithms;dfs and similar;dp;graphs;greedy;trees,2002shanghai,174
+Card Game,2200,combinatorics;dp;fft;greedy;math,2015nanjing,348
+Attribute Checks,1800,brute force;data structures;dp;implementation;math;two pointers,2003wuhan,993
+New Game,1300,binary search;brute force;greedy;implementation;sortings;two pointers,2002hangzhou,749
+"Binomial Coefficients, Kind Of",1100,combinatorics;dp;math,2001hangzhou,657
+Two Screens,800,binary search;greedy;strings;two pointers,2001beijing,533
+Buying Lemonade,1100,binary search;constructive algorithms;sortings,2015hangzhou,705
+Profitable Interest Rate,800,greedy;math,2004guangzhou,78
+Hills and Pits,3500,data structures;greedy;math;matrices,2015chengdu,213
+Tree of Life,3300,dp;greedy;trees,2020beijing,36
+Many Games,2900,brute force;dp;greedy;math;probabilities,2019shenzhen,720
+C+K+S,2400,constructive algorithms;dfs and similar;graphs;greedy;hashing;implementation;strings,2013chongqing,698
+Skipping,1700,binary search;dp;graphs;shortest paths,2018wuhan,703
+Concatenation of Arrays,1300,constructive algorithms;greedy;math;sortings,2002beijing,883
+Billetes MX (Hard Version),2600,binary search;combinatorics;data structures;dsu;graphs,2005shanghai,310
+Billetes MX (Easy Version),2500,2-sat;binary search;combinatorics;constructive algorithms;dfs and similar;dsu;graphs,2009beijing,584
+Asesino (Hard Version),2700,constructive algorithms;dp;interactive,2006xian,321
+Asesino (Easy Version),1900,binary search;brute force;constructive algorithms;implementation;interactive,2005chengdu,690
+Gerrymandering,1800,dp;implementation,2013shanghai,177
+Kar Salesman,1300,binary search;greedy;math,2008shanghai,447
+Bus to Pénjamo,800,constructive algorithms;greedy;implementation;math,2007chongqing,676
+Digital Village (Extreme Version),2800,data structures;dfs and similar;dp;dsu;graphs;greedy;math;trees,2000nanjing,75
+Digital Village (Hard Version),2500,data structures;dp;dsu;graphs;math;trees,2016nanjing,356
+Digital Village (Easy Version),2300,brute force;data structures;dfs and similar;dp;dsu;fft;graphs;greedy;implementation;math;trees,2014shenzhen,975
+"Boss, Thirsty",2500,dp;greedy;implementation,2014shanghai,888
+Adjust The Presentation (Hard Version),1900,constructive algorithms;data structures;greedy;implementation;sortings,2004beijing,253
+Adjust The Presentation (Easy Version),1300,constructive algorithms;greedy,2000hangzhou,53
+Maximize Mex,1200,brute force;greedy;math;number theory,2006shanghai,583
+Meaning Mean,800,data structures;greedy;math;sortings,2012shenzhen,184
+Count Leaves,2900,dp;math;number theory,2002wuhan,852
+Expected Power,2000,bitmasks;dp;math;probabilities,2009chengdu,48
+Connect the Dots,1800,brute force;dp;dsu;graphs;math;trees,2000shanghai,666
+Bitwise Balancing,1400,bitmasks;hashing;implementation;math;schedules;ternary search,2005chengdu,538
+Brightness Begins,1200,binary search;math,2015shenzhen,598
+Find Minimum Operations,800,bitmasks;brute force;greedy;math;number theory,2007beijing,410
+All Pairs Segments,1200,implementation;math,2013shanghai,414
+Max Plus Size,800,brute force;dp;greedy,2018shenzhen,864
+Speedbreaker Counting (Hard Version),3100,dp;greedy;math,2009shenzhen,270
+Speedbreaker Counting (Medium Version),3000,dp;greedy;math,2006xian,327
+Speedbreaker Counting (Easy Version),2900,combinatorics;dp;greedy;math,2017hangzhou,441
+Complex Segments (Hard Version),3400,binary search;data structures;divide and conquer;dsu;greedy;math;sortings,2019xian,315
+Complex Segments (Easy Version),3300,binary search;data structures;divide and conquer;dsu;greedy;math;sortings,2007xian,257
+Max Plus Min Plus Size,2200,data structures;dp;dsu;greedy;implementation;matrices;sortings,2015guangzhou,289
+Tree Pruning,1700,brute force;dfs and similar;greedy;sortings;trees,2011guangzhou,331
+Speedbreaker,1900,binary search;data structures;dp;greedy;implementation;two pointers,2019chengdu,307
+Cards Partition,1600,2-sat;brute force;greedy;implementation;math,2010guangzhou,366
+Robin Hood Archery,1900,data structures;divide and conquer;greedy;hashing,2019beijing,294
+Milky Days,2200,brute force;data structures;greedy;implementation,2019chengdu,458
+Sheriff's Defense,2000,dfs and similar;dp;greedy;trees,2019shanghai,182
+Rendez-vous de Marian et Robin,1800,dfs and similar;graphs;shortest paths,2005shenzhen,437
+Robert Hood and Mrs Hood,1400,brute force;data structures;greedy;sortings,2011wuhan,15
+Robin Hood in Town,1100,binary search;greedy;math,2012guangzhou,366
+Robin Hood and the Major Oak,800,math,2005chengdu,140
+Robin Helps,800,greedy;implementation,2018hangzhou,994
+Game in Tree (Hard Version),3500,binary search;data structures;trees,2000beijing,413
+Game in Tree (Easy Version),2700,binary search;brute force;data structures;dp;games;greedy;implementation;trees,2009chongqing,238
+Prefix GCD,2200,brute force;dp;greedy;math;number theory,2005chengdu,825
+Minimize the Difference,1900,binary search;greedy,2002shanghai,369
+Password Cracking,1400,constructive algorithms;interactive;strings,2001xian,411
+Battle for Survive,900,constructive algorithms;greedy;math,2002guangzhou,990
+Zhan's Blender,800,constructive algorithms;math,2004chongqing,801
+Message Transmission Error (hard version),1700,hashing;string suffix structures;strings;two pointers,2019hangzhou,635
+Message Transmission Error (easy version),1400,brute force;strings,2010wuhan,891
+Three Brothers,800,brute force;implementation;math,2007beijing,431
+Alternating Sum of Numbers,800,brute force;implementation;math,2011wuhan,475
+Yunli's Subarray Queries (extreme version),2700,data structures;dp;implementation,2000shenzhen,330
+Yunli's Subarray Queries (hard version),2200,binary search;data structures;dp,2018hangzhou,881
+Yunli's Subarray Queries (easy version),1900,binary search;data structures;two pointers,2008wuhan,598
+Firefly's Queries,1700,bitmasks;data structures;flows;math,2001shenzhen,269
+Klee's SUPER DUPER LARGE Array!!!,1400,binary search;math;ternary search,2001wuhan,197
+Satyam and Counting,1400,geometry;math,2020nanjing,212
+The Legend of Freya the Frog,1100,implementation;math,2015shanghai,664
+osu!mania,800,brute force;implementation,2015guangzhou,790
+Minimize!,800,brute force;math,2003beijing,82
+Sakurako's Test,2100,binary search;brute force;greedy;math;number theory,2019guangzhou,116
+Sakurako's Task,1800,binary search;greedy;math;number theory,2006shanghai,329
+Sakurako's Box,1400,combinatorics;math;number theory,2005nanjing,734
+Alternating String,1500,brute force;data structures;dp;greedy;implementation;strings,2008shanghai,146
+Sakurako's Hobby,1100,dp;dsu;graphs;math,2019shanghai,546
+Longest Good Array,800,binary search;brute force;math,2015xian,593
+Square or Not,800,brute force;math;strings,2018guangzhou,961
+Sakurako's Exam,800,brute force;constructive algorithms;greedy;math,2009xian,223
+Dora and C++,1500,math;number theory,2013hangzhou,687
+Index and Maximum Value,900,data structures;greedy,2008wuhan,361
+Dora's Set,800,greedy;math;number theory,2015shanghai,183
+Dora's Paint,3500,brute force;combinatorics;constructive algorithms;graphs;implementation,2012hangzhou,978
+Iris's Full Binary Tree,3100,brute force;data structures;dfs and similar;trees,2018shenzhen,463
+Iris and Adjacent Products,2600,data structures;greedy;implementation;math,2019beijing,351
+Eri and Expanded Sets,2300,data structures;divide and conquer;math;number theory;two pointers,2004wuhan,449
+Iris and the Tree,1800,brute force;data structures;dfs and similar;dsu;math;trees,2006guangzhou,123
+Iris and Game on the Tree,1700,constructive algorithms;dfs and similar;games;graphs;greedy;trees,2017shenzhen,18
+Subtangle Game (Hard Version),2500,data structures;dp;games;greedy;implementation,2019nanjing,770
+Subtangle Game (Easy Version),2100,dp;games;greedy;implementation,2017nanjing,30
+Alter the GCD,2400,binary search;brute force;data structures;divide and conquer;implementation;number theory,2002wuhan,571
+Lazy Narek,1800,dp;implementation;strings,2005beijing,796
+The Strict Teacher (Hard Version),1200,binary search;greedy;math;sortings,2019nanjing,149
+The Strict Teacher (Easy Version),1000,greedy;math;sortings,2004guangzhou,60
+Simple Palindrome,900,combinatorics;constructive algorithms;greedy;math,2015chengdu,65
+Substring Compression,3200,data structures;dp;matrices,2018wuhan,136
+Make a Palindrome,2600,binary search;brute force;data structures;greedy;math,2000shanghai,735
+Not a Nim Problem,2100,brute force;games;math;number theory,2019chongqing,941
+Colored Portals,1600,binary search;brute force;data structures;graphs;greedy;implementation;shortest paths,2012guangzhou,930
+Splitting Items,1100,games;greedy;sortings,2003beijing,551
+Game with Doors,1000,brute force;greedy,2008shenzhen,959
+Closest Point,800,implementation;math,2005shanghai,247
+Turtle and Three Sequences,2800,brute force;data structures;dp;greedy;math;probabilities;two pointers,2019nanjing,706
+Turtle and Inversions (Hard Version),2700,brute force;data structures;divide and conquer;dp;greedy;math;two pointers,2014chongqing,78
+Turtle and Inversions (Easy Version),2600,brute force;divide and conquer;dp;greedy;math,2006wuhan,175
+Turtle and a MEX Problem (Hard Version),2100,dfs and similar;dp;graphs;greedy;implementation;math,2015beijing,733
+Turtle and a MEX Problem (Easy Version),1500,greedy;math,2002guangzhou,369
+Turtle and Good Pairs,1200,constructive algorithms;greedy;sortings;strings,2010guangzhou,383
+Turtle and Piggy Are Playing a Game 2,800,games;greedy;sortings,2013nanjing,380
+Turtle and Good Strings,800,greedy;strings,2000chongqing,78
+Counting 101,3500,greedy,2020shenzhen,184
+Lattice Optimizing,3400,bitmasks;brute force;hashing;meet-in-the-middle,2018chongqing,695
+Court Blue (Hard Version),2800,brute force;dp;math;number theory,2015shenzhen,253
+Court Blue (Easy Version),2600,brute force;dfs and similar;dp;math;number theory,2007xian,469
+Cosmic Rays,2300,brute force;data structures;dp,2018hangzhou,469
+DFS Checker (Hard Version),2300,binary search;data structures;dfs and similar;graphs;hashing;trees,2019nanjing,912
+DFS Checker (Easy Version),1900,brute force;data structures;dfs and similar;graphs;hashing;trees,2007chongqing,855
+Black Circles,1200,brute force;geometry;greedy;math,2000xian,934
+Removals Game,1000,constructive algorithms;games,2004chongqing,197
+Distanced Coloring,800,constructive algorithms;implementation;math,2008wuhan,405
+Deterministic Heap (Hard Version),2900,combinatorics;dp;trees,2002chengdu,702
+Deterministic Heap (Easy Version),2400,combinatorics;dp;math;trees,2019nanjing,433
+Longest Max Min Subsequence,1900,brute force;constructive algorithms;data structures;greedy;implementation,2005xian,691
+Guess The Tree,1500,binary search;brute force;dfs and similar;divide and conquer;dsu;greedy;interactive;trees,2012shenzhen,73
+Generate Permutation,800,constructive algorithms,2009nanjing,695
+Make All Equal,800,greedy;implementation,2018chengdu,111
+Ksyusha and the Loaded Set,2200,binary search;brute force;data structures;implementation,2000shanghai,181
+Call During the Journey,2100,binary search;brute force;graphs;greedy;shortest paths,2015hangzhou,469
+Color Rows and Columns,1900,dp;greedy;implementation;math,2020guangzhou,978
+Photoshoot for Gorillas,1400,combinatorics;data structures;greedy;math,2000shenzhen,600
+Right Left Wrong,1200,greedy;implementation;two pointers,2003shanghai,594
+Numeric String Template,1000,data structures;strings,2020beijing,594
+Seating in a Bus,800,two pointers,2006shanghai,196
+Primary Task,800,implementation;math;strings,2020chengdu,179
+Ruler (hard version),1700,binary search;interactive;ternary search,2015nanjing,398
+Ruler (easy version),1500,binary search;interactive,2018xian,430
+Expected Median,1500,combinatorics;math,2008shenzhen,53
+Triple Operations,1300,dp;implementation;math,2007nanjing,368
+Slavic's Exam,1100,greedy;implementation;strings,2013nanjing,780
+Showering,800,greedy;implementation,2011hangzhou,922
+Card Game,1000,brute force;constructive algorithms;implementation,2004beijing,308
+A+B Again?,800,implementation;math,2020nanjing,113
+Eliminating Balls With Merging (Hard Version),2500,binary search;brute force;data structures;divide and conquer;greedy;implementation,2018hangzhou,296
+Eliminating Balls With Merging (Easy Version),2200,binary search;brute force;data structures;divide and conquer;greedy,2007guangzhou,927
+Determine Winning Islands in Race,2100,data structures;dp;graphs;greedy;shortest paths,2016xian,849
+Perform Operations to Maximize Score,1900,binary search;brute force;constructive algorithms;greedy;implementation,2000hangzhou,153
+Minimize Equal Sum Subarrays,1000,constructive algorithms;math;number theory,2012wuhan,808
+Find K Distinct Points with Fixed Center,800,constructive algorithms;implementation;math,2014nanjing,458
+Chips on a Line,2700,brute force;combinatorics;dp;greedy;math,2011wuhan,592
+Level Up,2200,binary search;brute force;data structures;divide and conquer;implementation,2014chongqing,326
+Maximize the Root,1500,binary search;dfs and similar;dp;greedy;trees,2009beijing,115
+Even Positions,1100,constructive algorithms;data structures;greedy,2005chengdu,455
+Make Three Regions,1100,constructive algorithms;two pointers,2017shanghai,926
+Strong Password,800,brute force;implementation;strings,2006shanghai,126
+Penacony,2200,brute force;data structures;graphs;greedy;hashing,2011nanjing,346
+Bomb,1900,binary search;greedy;math,2004shenzhen,374
+Decode,1600,combinatorics;data structures;implementation;math,2018shanghai,200
+Fun,1500,binary search;brute force;combinatorics;math;number theory,2005hangzhou,668
+Sort,1200,dp;greedy;sortings;strings,2004chengdu,629
+Scale,800,greedy;implementation,2015shenzhen,56
+Legs,800,binary search;math;ternary search,2008shenzhen,490
+Let Me Teach You a Lesson (Hard Version),2900,data structures;dp;matrices;two pointers,2015nanjing,356
+Let Me Teach You a Lesson (Easy Version),2700,2-sat;data structures;dp;matrices;two pointers,2018guangzhou,631
+Cases,2300,bitmasks;brute force;dp;strings,2016nanjing,555
+Squaring,1800,brute force;constructive algorithms;greedy;implementation;math;number theory,2019hangzhou,897
+Bouquet (Hard Version),1700,binary search;data structures;greedy;math;sortings;two pointers,2002wuhan,666
+Bouquet (Easy Version),1100,binary search;brute force;greedy;sortings;two pointers,2020hangzhou,781
+Diagonals,800,brute force;greedy;implementation;math,2017hangzhou,599
+Fortnite,3500,combinatorics;constructive algorithms;games;greedy;hashing;interactive;math;number theory;strings,2008shenzhen,133
+Minecraft,2600,bitmasks;brute force;dp;graphs;math,2019chengdu,574
+Stardew Valley,2500,constructive algorithms;dfs and similar;graphs;trees,2012chengdu,265
+Wooden Game,2000,bitmasks;greedy;math;trees,2013beijing,544
+Funny Game,1900,constructive algorithms;dsu;graphs;greedy;math;number theory;trees,2016hangzhou,41
+Hungry Games,1600,binary search;dp;two pointers,2013guangzhou,397
+Fun Game,1100,bitmasks;constructive algorithms;greedy;math,2020chengdu,311
+Diverse Game,800,constructive algorithms;greedy;implementation,2013nanjing,890
+Dyn-scripted Robot (Hard Version),2800,chinese remainder theorem;math;number theory,2017chengdu,606
+Dyn-scripted Robot (Easy Version),2400,brute force;chinese remainder theorem;constructive algorithms;math;number theory,2003wuhan,875
+Xor-Grid Problem,2700,bitmasks;constructive algorithms;dp;implementation,2015hangzhou,823
+Med-imize,2200,binary search;dp;greedy,2018chengdu,856
+Light Switches,1400,implementation;math,2007shanghai,316
+Parity and Sum,1100,constructive algorithms;greedy,2013chongqing,298
+Question Marks,800,greedy;implementation,2020hangzhou,922
+Ultra-Meow,2000,combinatorics;dp;math,2004wuhan,573
+Valuable Cards,1900,brute force;dp;greedy;number theory;two pointers,2007chongqing,261
+Novice's Mistake,1700,brute force;constructive algorithms;implementation;math;strings,2016guangzhou,895
+Test of Love,1200,dp;greedy;implementation,2012wuhan,165
+Gorilla and Permutation,900,constructive algorithms;math,2001chengdu,821
+Angry Monk,800,greedy;math;sortings,2017chongqing,62
+Only Pluses,800,brute force;constructive algorithms;greedy;math;sortings,2001nanjing,612
+Grid Game,3500,constructive algorithms;games;graph matchings;greedy;interactive,2002nanjing,698
+Prime Split Game,3300,bitmasks;dp;fft;games;math;number theory,2015xian,399
+Grid Reset,2700,constructive algorithms;greedy;implementation,2013hangzhou,346
+Triangle Formation,2200,brute force;greedy;implementation;math;sortings,2017nanjing,492
+Coloring Game,1900,constructive algorithms;dfs and similar;games;graphs;greedy;interactive,2011chengdu,863
+Prime XOR Coloring,1900,bitmasks;constructive algorithms;graphs;greedy;math;number theory,2014beijing,277
+Absolute Zero,1300,constructive algorithms;greedy;math,2010xian,840
+AND Reconstruction,1100,bitmasks;constructive algorithms;greedy,2009hangzhou,23
+Maximize the Last Element,800,greedy;implementation,2014beijing,138
+Polygonal Segments,2800,brute force;data structures;divide and conquer;dp;greedy;two pointers,2015guangzhou,317
+Catch the Mole(Hard Version),2600,binary search;data structures;dfs and similar;divide and conquer;interactive;trees,2008nanjing,802
+Catch the Mole(Easy Version),2500,binary search;data structures;dfs and similar;interactive;trees,2009chengdu,513
+Grid Puzzle,1800,bitmasks;brute force;dp;greedy;implementation,2018wuhan,105
+Mad MAD Sum,1500,brute force;greedy;math,2018guangzhou,792
+Array Craft,1200,constructive algorithms;greedy,2001shanghai,238
+Submission Bait,900,brute force;games;greedy;sortings,2009xian,547
+Simultaneous Coloring,3000,dfs and similar;divide and conquer;graphs,2020nanjing,699
+Distance to Different,2300,combinatorics;dp;math,2017shenzhen,146
+Smithing Skill,1900,brute force;data structures;dp;greedy;math;sortings;two pointers,2002nanjing,684
+Two Movies,1400,greedy;math,2009guangzhou,745
+Substring and Subsequence,1200,brute force;greedy;strings,2011shenzhen,859
+Catch the Coin,800,implementation,2003beijing,874
+Heartbeat,3000,combinatorics;dp;fft;math,2000nanjing,516
+Range Minimum Sum,2300,binary search;brute force;data structures;divide and conquer;implementation,2016shanghai,44
+The Omnipotent Monster Killer,2000,brute force;dfs and similar;dp;trees,2013guangzhou,529
+Increasing Sequence with Fixed OR,1300,bitmasks;constructive algorithms;greedy,2006guangzhou,261
+Make Majority,900,greedy;implementation,2009chongqing,265
+Split the Multiset,900,brute force;greedy;implementation;math,2011hangzhou,66
+Fumo Temple,3500,interactive,2004nanjing,355
+Spinning Round (Hard Version),3500,divide and conquer;dp;trees,2007wuhan,279
+Spinning Round (Easy Version),2900,divide and conquer;dp;trees,2016beijing,749
+Interesting Problem (Hard Version),2600,dp,2015shenzhen,720
+Interesting Problem (Easy Version),2500,dp,2014nanjing,474
+Wonderful Tree!,2000,brute force;data structures;dfs and similar;dsu;greedy;trees,2001shenzhen,329
+World is Mine,1800,dp;games,2006xian,492
+Basil's Garden,1200,dp;greedy,2019wuhan,137
+K-Sort,1000,greedy,2019hangzhou,795
+Upload More RAM,800,greedy;math,2013shenzhen,612
+Permutation Problem (Hard Version),2500,brute force;data structures;hashing;math;number theory,2002nanjing,976
+Permutation Problem (Simple Version),2200,binary search;brute force;combinatorics;data structures;math;number theory,2019shenzhen,739
+Non-academic Problem,1900,dfs and similar;graphs;trees,2011hangzhou,80
+Beautiful Array,1700,greedy;math;number theory;sortings,2015xian,137
+Mathematical Problem,1400,brute force;dp;greedy;implementation;math;two pointers,2009chongqing,155
+Update Queries,1100,data structures;greedy;sortings,2010beijing,389
+Matrix Stabilization,1000,brute force;data structures;greedy;sortings,2019wuhan,553
+X Axis,800,brute force;geometry;math;sortings,2004beijing,573
+Maximize the Largest Component (Hard Version),2200,data structures;dfs and similar;dp;dsu;implementation,2000guangzhou,455
+Maximize the Largest Component (Easy Version),1700,brute force;data structures;dfs and similar;dsu;graphs;implementation,2008wuhan,536
+D-Function,1600,combinatorics;math;number theory,2003shenzhen,75
+Final Boss,1500,binary search;data structures,2018chengdu,964
+Secret Box,1200,brute force;combinatorics;math,2011chengdu,133
+Manhattan Circle,900,implementation;math,2000guangzhou,524
+Good Prefixes,1000,greedy,2007nanjing,518
+Maximum Multiple Sum,800,brute force;math;number theory,2012wuhan,658
+Creating Words,800,implementation;strings,2008chengdu,870
+Tower Capturing,3300,combinatorics;dp;geometry,2014xian,227
+Magic Trick II,3200,constructive algorithms;implementation;sortings,2004xian,621
+Reconstruction,2500,brute force;dp;math,2010wuhan,485
+Shuffle,2400,dp;greedy;trees,2020xian,191
+''a'' String Problem,2000,brute force;hashing;implementation;math;string suffix structures;strings,2000shenzhen,729
+Magnitude (Hard Version),1700,combinatorics;dp;greedy;math,2002wuhan,684
+Magnitude (Easy Version),1300,dp;greedy;math,2003guangzhou,954
+Large Addition,1100,implementation;math,2001guangzhou,511
+Strange Splitting,800,constructive algorithms,2005shanghai,208
+Your Loss,3000,bitmasks;brute force;dp;trees,2011xian,540
+array-value,2500,binary search;bitmasks;data structures;greedy;two pointers,2009chengdu,237
+I Love Balls,2300,combinatorics;math;probabilities,2017beijing,957
+Swap Dilemma,1700,constructive algorithms;data structures;divide and conquer;greedy;math;sortings,2006shenzhen,564
+Have Your Cake and Eat It Too,1400,binary search;brute force;greedy;implementation,2001wuhan,315
+Corner Twist,1200,constructive algorithms;greedy;implementation;math,2000chengdu,397
+Array Divisibility,800,constructive algorithms;math,2017shenzhen,934
+Sorting Problem Again,2600,binary search;data structures;sortings,2010shenzhen,557
+Number of k-good subarrays,2300,bitmasks;brute force;combinatorics;divide and conquer;dp;math;meet-in-the-middle,2010chongqing,841
+Beauty of the mountains,1700,brute force;data structures;implementation;math;number theory,2004beijing,495
+Boring Day,1200,binary search;data structures;dp;greedy;two pointers,2007shanghai,255
+Collatz Conjecture,1200,brute force;implementation;math;number theory,2020wuhan,382
+Soccer,800,greedy;implementation;math;sortings,2007chongqing,554
+Turtle and Paths on a Tree,3000,data structures;dp;trees,2014shanghai,22
+Turtle and Intersected Segments,2600,data structures;dsu;graphs;greedy,2011beijing,363
+Turtle and Multiplication,2400,constructive algorithms;dfs and similar;graphs;number theory,2019xian,622
+Turtle and an Incomplete Sequence,1800,bitmasks;brute force;constructive algorithms;greedy;implementation;math,2013xian,275
+Turtle and an Infinite Sequence,1300,bitmasks;math,2020xian,445
+Turtle and Piggy Are Playing a Game,800,brute force;greedy;math,2009wuhan,282
+Yasya and the Mysterious Tree,2300,bitmasks;data structures;dfs and similar;graphs;greedy;strings;trees,2002shanghai,318
+Field Division (hard version),2400,math;sortings,2010shanghai,624
+Field Division (easy version),1900,data structures;math;sortings,2010wuhan,292
+Permutation of Rows and Columns,1600,constructive algorithms;data structures;greedy;hashing;implementation;math;matrices;sortings,2017nanjing,677
+GCD-sequence,1400,greedy;implementation;math;number theory,2010nanjing,910
+Sofia and the Lost Operations,1300,constructive algorithms;greedy,2018wuhan,526
+Choosing Cubes,800,sortings;sortings,2003shenzhen,367
+Problem Generator,800,math,2010beijing,30
+Kostyanych's Theorem,2900,brute force;constructive algorithms;graphs;interactive,2000nanjing,948
+Manhattan Triangle,2400,binary search;constructive algorithms;data structures;geometry;implementation;two pointers,2003chongqing,439
+Fixing a Binary String,1800,bitmasks;brute force;constructive algorithms;dp;greedy;hashing;strings,2011shanghai,603
+Earning on Bets,1200,binary search;combinatorics;constructive algorithms;number theory,2011nanjing,854
+XOR Sequences,1000,bitmasks;greedy,2015shenzhen,550
+Guess the Maximum,800,brute force;greedy;implementation,2001chongqing,117
+Large Graph,2400,data structures;dfs and similar;dsu;graphs;number theory;two pointers,2012xian,223
+Computing Machine,2000,brute force;data structures;dp;greedy;implementation,2005shanghai,870
+Elections,1600,data structures;greedy;implementation;math,2001guangzhou,368
+Manhattan Permutations,1300,constructive algorithms;data structures;greedy;implementation;math,2012shanghai,626
+New Bakery,800,binary search;greedy;math;ternary search,2017xian,337
+Alice and Books,800,constructive algorithms;greedy;sortings,2004xian,813
+Tensor,2600,constructive algorithms;graphs;interactive,2014shanghai,431
+XORificator,2300,bitmasks;brute force;greedy;hashing,2017chengdu,175
+Nikita and LCM,1900,brute force;data structures;dp;greedy;math;number theory;sortings,2007chongqing,60
+Binary Colouring,1100,bitmasks;constructive algorithms;greedy;math,2018wuhan,966
+Little Nikita,800,math,2011shanghai,84
+Remove Bridges,2800,data structures;dfs and similar;dp;greedy;sortings;trees,2001hangzhou,748
+Splittable Permutations,2500,combinatorics;data structures;dfs and similar;greedy;math;trees,2000chengdu,784
+Invertible Bracket Sequences,2000,binary search;combinatorics;data structures;divide and conquer;implementation;two pointers,2017chongqing,250
+Job Interview,1600,binary search;dp;greedy;implementation;two pointers,2002beijing,837
+Increase/Decrease/Copy,1100,greedy;implementation,2004guangzhou,15
+Verify Password,800,implementation;sortings;strings,2003hangzhou,290
+Mind Bloom,3500,dp,2003wuhan,942
+378QAQ and Core,3500,greedy;strings,2010chongqing,619
+Zimpha Fan Club,3000,fft;greedy;math;strings,2007xian,542
+Set,2600,bitmasks;brute force;combinatorics;dfs and similar;divide and conquer;dp;math,2016guangzhou,745
+Chain Queries,2100,binary search;data structures;dfs and similar;implementation;trees,2017guangzhou,486
+Paint the Tree,1700,brute force;dfs and similar;dp;greedy;shortest paths;trees,2006shenzhen,59
+Chamo and Mocha's Array,1200,binary search;brute force;greedy,2013wuhan,609
+378QAQ and Mocha's Array,1000,brute force;greedy;math;sortings,2003chengdu,519
+Bazoka and Mocha's Array,800,brute force;greedy;implementation;sortings,2020xian,363
+Money Buys Less Happiness Now ,2000,data structures;greedy;sortings,2008guangzhou,740
+Cutting Game,1900,binary search;brute force;data structures;implementation;sortings;two pointers,2007xian,709
+Money Buys Happiness,1800,dp,2012chongqing,284
+Ingenuity-2,1400,constructive algorithms;greedy;implementation,2013xian,930
+Beautiful Triple Pairs,1400,combinatorics;data structures,2018beijing,467
+Symmetric Encoding,800,implementation;sortings;strings,2008xian,415
+Phone Desktop,800,greedy;math,2012chongqing,444
+Maximum GCD Sum Queries,3100,bitmasks;brute force;dp;implementation;number theory,2005beijing,294
+"Cat, Fox and Swaps ",2500,graphs;math;sortings,2010chengdu,72
+"Cat, Fox and Maximum Array Split",2400,brute force;interactive;math,2013xian,840
+"Cat, Fox and Double Maximum",1700,constructive algorithms;greedy;implementation;math;sortings,2015hangzhou,268
+"Cat, Fox and the Lonely Array",1300,binary search;bitmasks;data structures;greedy;math;two pointers,2005nanjing,13
+Chess For Three,900,brute force;dp;implementation;math,2012guangzhou,614
+Coin Games,900,games,2006xian,696
+Contest Proposal,800,brute force;greedy;two pointers,2003beijing,654
+±1,2100,2-sat;dfs and similar;graphs,2016chengdu,329
+XOUR,1700,data structures;dsu;sortings,2001chengdu,184
+Circle Perimeter,1600,binary search;brute force;dfs and similar;geometry;implementation;math,2011xian,716
+Find the Car,1500,binary search;math;sortings,2010shanghai,34
+Binary Cut,1100,dp;greedy;implementation;sortings;strings,2013guangzhou,788
+Clock and Strings,900,implementation,2016wuhan,25
+Different String,800,implementation;strings,2007beijing,973
+My First Sorting Problem,800,implementation;sortings,2015shanghai,752
+Min-Fund Prison (Hard),2400,bitmasks;dfs and similar;dp;graphs;trees,2012nanjing,133
+Min-Fund Prison (Medium),2200,brute force;dfs and similar;dp;graphs;trees,2013xian,937
+Min-Fund Prison (Easy),1900,dfs and similar;trees,2012shenzhen,298
+Playing Quidditch (Hard),2300,implementation,2006xian,645
+Playing Quidditch (Medium),2300,implementation,2006nanjing,835
+Playing Quidditch (Easy),2300,implementation,2015wuhan,358
+Trails (Hard),2200,dp;matrices,2020wuhan,737
+Trails (Medium),2000,dp;matrices,2019nanjing,50
+Trails (Easy),1800,dp,2018hangzhou,734
+Arithmancy (Hard),3100,interactive,2010shanghai,296
+Arithmancy (Medium),2600,constructive algorithms;interactive;probabilities;strings,2017shanghai,884
+Arithmancy (Easy),2100,brute force;constructive algorithms;interactive;strings,2017hangzhou,221
+Game on Tree (Hard),1900,dfs and similar;dp;games;trees,2013chengdu,706
+Game on Tree (Medium),1700,dfs and similar;dp;games;trees,2018hangzhou,465
+Game on Tree (Easy),1400,games,2010shanghai,934
+Exact Neighbours (Hard),2300,constructive algorithms,2008beijing,34
+Exact Neighbours (Medium),2100,constructive algorithms,2012nanjing,312
+Exact Neighbours (Easy),1900,constructive algorithms,2010xian,4
+Balanced Unshuffle (Hard),2400,constructive algorithms;trees,2007xian,802
+Balanced Unshuffle (Medium),2400,brute force;constructive algorithms;trees,2019chengdu,11
+Balanced Shuffle (Easy),1000,implementation;sortings,2010hangzhou,269
+Card Pairing,3000,dp;greedy;hashing;implementation,2007shanghai,205
+Unique Array,2400,binary search;data structures;divide and conquer;dp;greedy,2010shanghai,535
+Shop Game,1900,data structures;greedy;math;sortings,2001chengdu,236
+Minimizing the Sum,1700,dp;implementation,2001guangzhou,179
+Shifts and Sorting,1000,constructive algorithms;greedy,2011wuhan,29
+Two Friends,800,constructive algorithms;implementation;math,2006guangzhou,660
+Division + LCP (hard version),2200,binary search;brute force;data structures;dp;hashing;math;string suffix structures;strings,2001chengdu,846
+Division + LCP (easy version),1900,binary search;data structures;dp;hashing;string suffix structures;strings,2001shenzhen,987
+Equal XOR Segments,1800,binary search;data structures,2001xian,606
+Cells Arrangement,1600,constructive algorithms,2010chengdu,870
+Permutation Game,1300,brute force;dfs and similar;games;graphs;greedy;math,2009xian,718
+Assembly via Remainders,1000,constructive algorithms;number theory,2019shenzhen,982
+Prefiquence,800,greedy;two pointers,2006shanghai,517
+Maximize?,800,brute force;math;number theory,2008shanghai,717
+Next and Prev,3200,brute force;data structures;implementation,2010shenzhen,831
+Again Counting Arrays (Hard Version),3500,combinatorics;dp;math,2000wuhan,141
+Again Counting Arrays (Easy Version),3100,combinatorics;dp;fft;math,2007guangzhou,736
+Long Way to be Non-decreasing,2800,binary search;dfs and similar;graphs;implementation;shortest paths;two pointers,2009chongqing,861
+Fenwick Tree,2300,bitmasks;brute force;combinatorics;data structures;dp;math;trees,2011shanghai,426
+Reverse Card (Hard Version),2200,brute force;math;number theory,2011chengdu,562
+Reverse Card (Easy Version),1400,brute force;math;number theory,2002shanghai,812
+Permutation Counting,1400,binary search;greedy;implementation;math;sortings,2018beijing,702
+Rectangle Filling,1100,constructive algorithms;implementation,2005shanghai,436
+Card Exchange,800,constructive algorithms;games;greedy,2007wuhan,815
+Conference,3300,data structures;flows,2000shenzhen,901
+Connected Cubes,3100,constructive algorithms;games,2001wuhan,458
+Missing Subarray Sum,2900,constructive algorithms,2010guangzhou,980
+Folding Strip,2300,constructive algorithms;greedy;strings,2013guangzhou,655
+Missing Subsequence Sum,1800,bitmasks;constructive algorithms;greedy;number theory,2001nanjing,755
+Everything Nim,1400,games;greedy;math;sortings,2020chongqing,347
+Necromancer,3200,*special,2013wuhan,625
+Equal Trees,3100,*special;graphs;meet-in-the-middle,2001wuhan,20
+Composite Spells,2600,*special;dp,2002chongqing,601
+Observation Towers,2400,*special,2002shanghai,454
+Narrow Paths,2000,*special;combinatorics,2015xian,909
+Yet Another Permutation Constructive,1900,*special;constructive algorithms,2017shenzhen,526
+Staircase,1600,*special,2015shenzhen,74
+Firewood,1500,*special,2005xian,661
+Clock in the Pool,1400,*special;math,2015beijing,476
+2001/3/5,1100,*special;dp,2008hangzhou,419
+Frequency Mismatch (Hard Version),2700,binary search;data structures;dfs and similar;hashing;probabilities;trees,2002wuhan,1
+Frequency Mismatch (Easy Version),2600,binary search;data structures;divide and conquer;hashing;probabilities;trees,2018shenzhen,533
+Carousel of Combinations,2400,brute force;combinatorics;dp;math;number theory,2001shanghai,688
+A BIT of an Inequality,1900,bitmasks;brute force;dp;math,2012shenzhen,931
+How Does the Rook Move?,1600,combinatorics;dp;math,2003shenzhen,185
+A BIT of a Construction,1100,bitmasks;constructive algorithms;greedy;implementation,2011xian,695
+Stickogon,800,constructive algorithms;greedy,2013beijing,763
+Nene and the Passing Game,3000,constructive algorithms;data structures;dsu;graphs;sortings,2013nanjing,878
+Nene vs. Monsters (Hard Version),2700,brute force;greedy;implementation;math,2003nanjing,243
+Nene vs. Monsters (Easy Version),2500,brute force;implementation;math,2008shanghai,315
+Nene and the Mex Operator,2000,bitmasks;brute force;constructive algorithms;divide and conquer;dp;greedy;implementation;math,2000hangzhou,129
+Nene's Magical Matrix,1600,constructive algorithms;greedy;math,2016xian,197
+Nene and the Card Game,800,games;greedy,2010chongqing,566
