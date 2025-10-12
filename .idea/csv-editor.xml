@@ -3,21 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\codeforces_problems_with_solved.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\contest.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\edges.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -95,13 +81,6 @@
           </value>
         </entry>
         <entry key="\neo4j_import_csvs\teams_nodes.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\problem.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

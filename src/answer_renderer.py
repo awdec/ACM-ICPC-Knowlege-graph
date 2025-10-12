@@ -22,6 +22,10 @@ def render_answer(intent: str, rows: List[Dict]) -> str:
     if intent == "get_contest_winner":
         lines = [f"{r.get('team')}（地区：{r.get('region','未知')}，名次：{r.get('rank','未知')}）" for r in rows]
         return "冠军/第一名：\n" + "\n".join(lines)
+    
+    if intent == "get_team_by_contest_rank":
+        lines = [f"{r.get('team_name')}（地区：{r.get('region','未知')}，名次：{r.get('rank','未知')}）" for r in rows]
+        return "查询结果：\n" + "\n".join(lines)
 
     if intent == "get_solutions_by_author":
         lines = [f"{r.get('problem')} — solution id: {r.get('sid')}\n摘要: {r.get('snippet')}" for r in rows]
