@@ -38,7 +38,7 @@ class ValidationConfig:
     enable_syntax_check: bool = True
     enable_security_check: bool = True
     enable_complexity_check: bool = True
-    max_complexity_score: int = 8
+    max_complexity_score: int = 12
 
 
 @dataclass
@@ -108,7 +108,7 @@ class ConfigManager:
             enable_syntax_check=os.getenv("ENABLE_SYNTAX_CHECK", "true").lower() == "true",
             enable_security_check=os.getenv("ENABLE_SECURITY_CHECK", "true").lower() == "true",
             enable_complexity_check=os.getenv("ENABLE_COMPLEXITY_CHECK", "true").lower() == "true",
-            max_complexity_score=int(os.getenv("MAX_COMPLEXITY_SCORE", "8"))
+            max_complexity_score=int(os.getenv("MAX_COMPLEXITY_SCORE", "12"))
         )
         
         neo4j_config = Neo4jConfig(

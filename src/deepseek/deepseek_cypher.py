@@ -149,7 +149,7 @@ class DeepSeekCypherGenerator:
             },
             {
                 "question": "谁是2023年ICPC世界冠军",
-                "cypher": "MATCH (tm:Team)-[r:PLACED]->(c:Contest) WHERE toLower(c.name) CONTAINS toLower($year_or_name) AND r.rank IN ['1','1st','冠军'] RETURN tm.name AS team, r.rank AS rank, r.region AS region LIMIT 5",
+                "cypher": "MATCH (tm:Team)-[r:PLACED]->(c:Contest) WHERE toLower(c.name) CONTAINS toLower($year_or_name) AND (r.rank IN [1,'1','1st','冠军'] OR toString(r.rank) IN ['1','1st','冠军']) RETURN tm.name AS team, r.rank AS rank, r.region AS region LIMIT 5",
                 "parameters": {"year_or_name": "2023"}
             },
             {

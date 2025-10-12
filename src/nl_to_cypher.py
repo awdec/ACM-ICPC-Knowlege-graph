@@ -4,12 +4,13 @@ from typing import Dict, Tuple
 
 INTENT_PATTERNS = [
     # (intent_name, regex, slot_names)
-    ("get_problem_difficulty", r"(?:题目|problem)\s*[\"“']?([^\"”']+)[\"”']?\s*(?:的)?\s*(?:难度|rating)", ["problem"]),
+    ("get_problem_difficulty", r"(?:题目|problem)\s*[\"']?([^\"']+)[\"']?\s*(?:的)?\s*(?:难度|rating)", ["problem"]),
     ("list_problems_by_tag", r"(?:有哪些|列出|给我).*?(?:关于|涉及|含有)\s*([^\s，。]+)", ["tag"]),
     ("get_contest_winner", r"(?:谁是|冠军|第一名).*(\d{4}|20\d{2}|[^\s，。]+赛)", ["year_or_name"]),
+    ("get_team_by_contest_rank", r"(?:比赛|contest)\s*[\"']?([^\"']+)[\"']?.*?(?:第|rank)\s*(\d+)(?:名)?", ["contest_name", "rank"]),
     ("get_solutions_by_author", r"(?:作者|由)\s*([^\s，。]+)", ["author"]),
     ("find_problems_using_algorithm", r"(?:使用|用到|涉及)\s*([^\s，。]+)\s*(?:算法)?", ["algo"]),
-    ("get_problem_info", r"(?:题目|problem)\s*[\"“']?([^\"”']+)[\"”']?\s*(?:的)?\s*(?:信息|详情|是什么)?", ["problem"])
+    ("get_problem_info", r"(?:题目|problem)\s*[\"']?([^\"']+)[\"']?\s*(?:的)?\s*(?:信息|详情|是什么)?", ["problem"])
 ]
 
 CYPHER_TEMPLATES = {
@@ -18,7 +19,9 @@ CYPHER_TEMPLATES = {
     "list_problems_by_tag":
         "MATCH (p:Problem)-[:HAS_TAG]->(t:Tag) WHERE toLower(t.name)=toLower($tag) RETURN p.name AS name, p.rating AS rating LIMIT 100",
     "get_contest_winner":
-        "MATCH (tm:Team)-[r:PLACED]->(c:Contest) WHERE toLower(c.name) CONTAINS toLower($year_or_name) AND r.rank IN ['1','1st','冠军'] RETURN tm.name AS team, r.rank AS rank, r.region AS region LIMIT 5",
+        "MATCH (tm:Team)-[r:PLACED]->(c:Contest) WHERE toLower(c.name) CONTAINS toLower($year_or_name) AND (r.rank IN [1,'1','1st','冠军'] OR toString(r.rank) IN ['1','1st','冠军']) RETURN tm.name AS team, r.rank AS rank, r.region AS region LIMIT 5",
+    "get_team_by_contest_rank":
+        "MATCH (t:Team)-[r:PLACED]->(c:Contest) WHERE toLower(c.name) = toLower($contest_name) AND (r.rank = toInteger($rank) OR toString(r.rank) = $rank) RETURN t.name AS team_name, r.rank AS rank, r.region AS region LIMIT 1",
     "get_solutions_by_author":
         "MATCH (pr:Person {name:$author})<-[:AUTHOR]-(s:Solution)<-[:HAS_SOLUTION]-(p:Problem) RETURN p.name AS problem, s.id AS sid, substring(s.content,0,300) AS snippet LIMIT 50",
     "find_problems_using_algorithm":

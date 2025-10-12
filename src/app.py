@@ -63,24 +63,35 @@ config_manager, nh, hybrid_strategy = initialize_components()
 st.title("🏆 ACM-ICPC 知识图谱智能问答系统")
 st.markdown("""
 ✨ **推荐尝试以下问题类型:**
-- “有哪些关于动态规划的题目”
-- “题目两数之和的难度”
-- “张三写了哪些题解”
-- “使用贪心算法的题目有哪些”
+- “有哪些关于 dp 的题目？”
+- “题目 Shifts and Swaps 的难度是多少？”
+- “姓名为 uid10013 的人写了哪些题解？”
+- “使用贪心算法的题目有哪些？”
+- “谁是 2015chengdu 的冠军？”
 """)
 
 # 侧边栏 - 系统状态
 with st.sidebar:
     st.header("🔧 系统状态")
     
-    # 显示当前查询模式
+    # 显示当前查询模式和用户选择
     query_mode = config_manager.get_query_mode()
     mode_display = {
         "rule": "📜 规则模式",
         "llm": "🤖 AI 模式", 
         "hybrid": "🤝 混合模式"
     }
-    st.info(f"当前模式: {mode_display.get(query_mode, query_mode)}")
+    st.info(f"系统默认: {mode_display.get(query_mode, query_mode)}")
+    
+    # 显示当前用户选择（如果存在）
+    if 'last_selected_mode' in st.session_state:
+        user_mode_display = {
+            "auto": "🤝 自动选择",
+            "rule": "📜 规则匹配",
+            "llm": "🤖 AI 生成"
+        }
+        current_selection = user_mode_display.get(st.session_state.last_selected_mode, st.session_state.last_selected_mode)
+        st.info(f"用户选择: {current_selection}")
     
     # LLM 可用性
     llm_available = config_manager.is_llm_available()
@@ -120,30 +131,86 @@ with st.sidebar:
 # 主查询界面
 st.header("💬 请输入您的问题")
 
-# 创建两列布局
-col1, col2 = st.columns([4, 1])
+# 创建三列布局
+col1, col2, col3 = st.columns([3, 1.5, 1])
 
 with col1:
+    # 检查是否有示例问题需要填入
+    default_value = ""
+    if 'example_question' in st.session_state:
+        default_value = st.session_state.example_question
+        # 清除 session state 中的示例问题，避免下次重复使用
+        del st.session_state.example_question
+    
     q = st.text_input(
         "问题", 
         placeholder="例如：有哪些关于动态规划的题目？",
-        label_visibility="collapsed"
+        label_visibility="collapsed",
+        value=default_value
     )
 
 with col2:
+    # 生成来源选择
+    query_mode_options = {
+        "auto": "🤝 自动选择",
+        "rule": "📜 规则匹配",
+        "llm": "🤖 AI 生成"
+    }
+    
+    # 检查LLM是否可用
+    llm_available = config_manager.is_llm_available()
+    if not llm_available:
+        # 如果LLM不可用，只显示规则匹配和自动选择
+        available_options = {"auto": "🤝 自动选择", "rule": "📜 规则匹配"}
+        st.info("💡 AI模式需要配置DeepSeek API Key")
+    else:
+        available_options = query_mode_options
+    
+    selected_mode = st.selectbox(
+        "生成来源",
+        options=list(available_options.keys()),
+        format_func=lambda x: available_options[x],
+        index=0,
+        label_visibility="visible",
+        help="自动选择：智能决定最佳方式 | 规则匹配：使用预定义规则 | AI生成：使用DeepSeek大模型"
+    )
+
+with col3:
     query_button = st.button("🔍 查询", type="primary", use_container_width=True)
 
 # 查询处理
 if query_button and q.strip():
+    # 保存用户选择到 session state
+    st.session_state.last_selected_mode = selected_mode
+    
     with st.spinner("🤔 正在分析您的问题..."):
         start_time = time.time()
         
         try:
+            # 确定使用的模式
+            force_mode = None if selected_mode == "auto" else selected_mode
+            
             # 使用混合策略生成查询
-            query_result = hybrid_strategy.generate_query(q.strip())
+            query_result = hybrid_strategy.generate_query(q.strip(), force_mode=force_mode)
             
             # 显示生成信息
+            mode_info = f"用户选择: {available_options.get(selected_mode, selected_mode)}"
+            if force_mode:
+                actual_mode = {
+                    "rule": "📜 规则匹配",
+                    "llm": "🤖 AI 生成"
+                }.get(query_result.source, query_result.source)
+                mode_info += f" | 实际使用: {actual_mode}"
+            else:
+                actual_mode = {
+                    "rule": "📜 规则匹配",
+                    "llm": "🤖 AI 生成",
+                    "hybrid": "🤝 混合模式"
+                }.get(query_result.source, query_result.source)
+                mode_info += f" | 自动选择: {actual_mode}"
+            
             st.success(f"✅ 查询生成成功 （{query_result.generation_time:.0f}ms）")
+            st.info(mode_info)
             
             # 显示查询详情
             with st.expander("🔍 查询详情", expanded=False):
@@ -236,19 +303,21 @@ elif query_button and not q.strip():
     st.warning("⚠️ 请输入问题后再查询")
 
 # 示例问题
-if not q:
-    st.subheader("💡 示例问题")
+# if not q:
+#     st.subheader("💡 示例问题")
     
-    example_questions = [
-        "有哪些关于动态规划的题目？",
-        "题目两数之和的难度是多少？",
-        "张三写了哪些题解？",
-        "使用贪心算法的题目有哪些？",
-        "谁是2023年ICPC世界冠军？"
-    ]
+#     example_questions = [
+#         "有哪些关于动态规划的题目？",
+#         "题目 Shifts and Swaps 的难度是多少？",
+#         "姓名为 uid10013 的人写了哪些题解？",
+#         "使用贪心算法的题目有哪些？",
+#         "谁是 2015chengdu 的冠军？"
+#     ]
     
-    cols = st.columns(2)
-    for i, example in enumerate(example_questions):
-        with cols[i % 2]:
-            if st.button(f"📋 {example}", key=f"example_{i}"):
-                st.rerun()
+#     cols = st.columns(2)
+#     for i, example in enumerate(example_questions):
+#         with cols[i % 2]:
+#             if st.button(f"📋 {example}", key=f"example_{i}"):
+#                 # 设置示例问题到 session state，然后重新运行
+#                 st.session_state.example_question = example
+#                 st.rerun()

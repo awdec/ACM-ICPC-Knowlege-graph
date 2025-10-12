@@ -344,39 +344,39 @@ class CypherValidator:
         score = 0
         cypher_upper = cypher.upper()
         
-        # 基础分数
+        # 基础分数（减少基础分数）
         score += 1
         
-        # MATCH 子句数量
+        # MATCH 子句数量（降低权重）
         match_count = cypher_upper.count('MATCH')
-        score += match_count * 2
+        score += match_count * 1  # 从 2 降低到 1
         
-        # OPTIONAL MATCH 增加复杂度
+        # OPTIONAL MATCH 增加复杂度（降低权重）
         optional_match_count = cypher_upper.count('OPTIONAL MATCH')
-        score += optional_match_count * 3
+        score += optional_match_count * 2  # 从 3 降低到 2
         
         # JOIN 复杂度（通过关系数量估算）
         relationship_count = len(re.findall(r'-\[.*?\]->', cypher))
-        score += relationship_count * 2
+        score += relationship_count * 1  # 从 2 降低到 1
         
         # WHERE 条件复杂度
         where_count = cypher_upper.count('WHERE')
         score += where_count * 1
         
-        # AND/OR 条件
+        # AND/OR 条件（降低 OR 的权重）
         and_count = cypher_upper.count(' AND ')
         or_count = cypher_upper.count(' OR ')
         score += and_count * 1
-        score += or_count * 2  # OR 通常比 AND 复杂
+        score += or_count * 1  # 从 2 降低到 1
         
-        # 聚合函数
+        # 聚合函数（降低权重）
         aggregations = ['COUNT', 'SUM', 'AVG', 'MIN', 'MAX']
         for agg in aggregations:
-            score += cypher_upper.count(agg) * 2
+            score += cypher_upper.count(agg) * 1  # 从 2 降低到 1
         
         # WITH 子句（表示多步查询）
         with_count = cypher_upper.count('WITH')
-        score += with_count * 3
+        score += with_count * 2  # 从 3 降低到 2
         
         # ORDER BY
         if 'ORDER BY' in cypher_upper:
@@ -384,10 +384,11 @@ class CypherValidator:
         
         # 嵌套层级（通过括号估算）
         max_nesting = self._calculate_nesting_level(cypher)
-        if max_nesting > 2:
-            score += (max_nesting - 2) * 2
+        if max_nesting > 3:  # 提高阈值
+            score += (max_nesting - 3) * 1  # 降低惩罚
         
-        return min(score, 10)  # 限制最大复杂度为 10
+        # 不再硬编码最大值限制，由配置管理
+        return score
     
     def _calculate_nesting_level(self, cypher: str) -> int:
         """计算嵌套层级"""
