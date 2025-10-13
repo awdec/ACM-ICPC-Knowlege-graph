@@ -166,7 +166,6 @@ pytest tests/ -v
 
 - [使用指南](USAGE_GUIDE.md) - 详细的使用说明
 - [项目总结](PROJECT_SUMMARY.md) - 实施总结和技术细节
-- [设计文档](设计文档链接) - 系统设计文档
 
 ## 🤝 贡献
 
